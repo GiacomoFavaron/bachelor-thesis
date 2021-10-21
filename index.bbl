@@ -1,0 +1,994 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{evangelatos2015airborne}{article}{}
+      \name{author}{2}{}{%
+        {{hash=7e17f5921819d82530e978a6c570ed1c}{%
+           family={Evangelatos},
+           familyi={E\bibinitperiod},
+           given={Orestis},
+           giveni={O\bibinitperiod}}}%
+        {{hash=4c3343de41a0f7a7b15788394da7211c}{%
+           family={Rolim},
+           familyi={R\bibinitperiod},
+           given={José\bibnamedelima DP},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{d923285e6da8fa667d4f078187ab8905}
+      \strng{fullhash}{d923285e6da8fa667d4f078187ab8905}
+      \strng{bibnamehash}{d923285e6da8fa667d4f078187ab8905}
+      \strng{authorbibnamehash}{d923285e6da8fa667d4f078187ab8905}
+      \strng{authornamehash}{d923285e6da8fa667d4f078187ab8905}
+      \strng{authorfullhash}{d923285e6da8fa667d4f078187ab8905}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SENSORNETS}
+      \field{title}{An Airborne Wireless Sensor Network for Ambient Air Pollution Monitoring}
+      \field{year}{2015}
+      \field{pages}{231\bibrangedash 239}
+      \range{pages}{9}
+    \endentry
+    \entry{8675167}{article}{}
+      \name{author}{6}{}{%
+        {{hash=48e692c0aa1f8d3d4423e04732d779d8}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Zhiwen},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=cc2d258ea01188839f29657aa6b1f283}{%
+           family={Bai},
+           familyi={B\bibinitperiod},
+           given={Zixuan},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=9cfc93388601e7b04c7423db8e33243e}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Yuzhe},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=7210b4a19fd2768979caa74d8db272e1}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Zijie},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=3c76726ca8d88c3a9e465e48ff5fbfd6}{%
+           family={Bian},
+           familyi={B\bibinitperiod},
+           given={Kaigui},
+           giveni={K\bibinitperiod}}}%
+        {{hash=c388e75135696dc8dfc06d66a767963e}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Lingyang},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{f6e1eeb92780aec86d872d8cc8c30d6f}
+      \strng{fullhash}{59fe0bf79463f5701771aa569d438996}
+      \strng{bibnamehash}{f6e1eeb92780aec86d872d8cc8c30d6f}
+      \strng{authorbibnamehash}{f6e1eeb92780aec86d872d8cc8c30d6f}
+      \strng{authornamehash}{f6e1eeb92780aec86d872d8cc8c30d6f}
+      \strng{authorfullhash}{59fe0bf79463f5701771aa569d438996}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Network}
+      \field{number}{2}
+      \field{title}{UAV Aided Aerial-Ground IoT for Air Quality Sensing in Smart City: Architecture, Technologies, and Implementation}
+      \field{volume}{33}
+      \field{year}{2019}
+      \field{pages}{14\bibrangedash 22}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1109/MNET.2019.1800214
+      \endverb
+    \endentry
+    \entry{8662050}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=004dee77ed121a4df09e95747206a19b}{%
+           family={Gu},
+           familyi={G\bibinitperiod},
+           given={Qijun},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=3b64c68ac8c7295233ce843d072363f3}{%
+           family={Jia},
+           familyi={J\bibinitperiod},
+           given={Chunrong},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{58e4846a28e4f393c760cd44e764350e}
+      \strng{fullhash}{58e4846a28e4f393c760cd44e764350e}
+      \strng{bibnamehash}{58e4846a28e4f393c760cd44e764350e}
+      \strng{authorbibnamehash}{58e4846a28e4f393c760cd44e764350e}
+      \strng{authornamehash}{58e4846a28e4f393c760cd44e764350e}
+      \strng{authorfullhash}{58e4846a28e4f393c760cd44e764350e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2019 IEEE International Conference on Consumer Electronics (ICCE)}
+      \field{title}{A Consumer UAV-based Air Quality Monitoring System for Smart Cities}
+      \field{year}{2019}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ICCE.2019.8662050
+      \endverb
+    \endentry
+    \entry{architecture-evolution}{article}{}
+      \name{author}{2}{}{%
+        {{hash=bc5ca8b9170df0ea2caaa9b1bf9f9271}{%
+           family={Condoluci},
+           familyi={C\bibinitperiod},
+           given={Massimo},
+           giveni={M\bibinitperiod}}}%
+        {{hash=bdcdee5fb1263df31be1ac454c690645}{%
+           family={Mahmoodi},
+           familyi={M\bibinitperiod},
+           given={Toktam},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{a594b069621a7fd8dbb146c7ded89032}
+      \strng{fullhash}{a594b069621a7fd8dbb146c7ded89032}
+      \strng{bibnamehash}{a594b069621a7fd8dbb146c7ded89032}
+      \strng{authorbibnamehash}{a594b069621a7fd8dbb146c7ded89032}
+      \strng{authornamehash}{a594b069621a7fd8dbb146c7ded89032}
+      \strng{authorfullhash}{a594b069621a7fd8dbb146c7ded89032}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computer Networks}
+      \field{month}{09}
+      \field{title}{Softwarization and virtualization in 5G mobile networks: Benefits, trends and challenges}
+      \field{volume}{146}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.1016/j.comnet.2018.09.005
+      \endverb
+    \endentry
+    \entry{generations}{article}{}
+      \name{author}{2}{}{%
+        {{hash=d55fcc777348415e92352e40923ac908}{%
+           family={Njoroge},
+           familyi={N\bibinitperiod},
+           given={Fredrick},
+           giveni={F\bibinitperiod}}}%
+        {{hash=f0b06023e104ba9bc4f4dbb31f326dcb}{%
+           family={Kamau},
+           familyi={K\bibinitperiod},
+           given={Lincoln},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{233ed4e2e6de6e30037cb87bdf9e8f94}
+      \strng{fullhash}{233ed4e2e6de6e30037cb87bdf9e8f94}
+      \strng{bibnamehash}{233ed4e2e6de6e30037cb87bdf9e8f94}
+      \strng{authorbibnamehash}{233ed4e2e6de6e30037cb87bdf9e8f94}
+      \strng{authornamehash}{233ed4e2e6de6e30037cb87bdf9e8f94}
+      \strng{authorfullhash}{233ed4e2e6de6e30037cb87bdf9e8f94}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{title}{A Survey of Cryptographic Methods in Mobile Network Technologies from 1G to 4G}
+      \field{year}{2018}
+    \endentry
+    \entry{gsm}{online}{}
+      \name{author}{1}{}{%
+        {{hash=e6e1cb2fbe2ae8db3ba2bb29a411c5ca}{%
+           family={3gpp},
+           familyi={3\bibinitperiod}}}%
+      }
+      \strng{namehash}{e6e1cb2fbe2ae8db3ba2bb29a411c5ca}
+      \strng{fullhash}{e6e1cb2fbe2ae8db3ba2bb29a411c5ca}
+      \strng{bibnamehash}{e6e1cb2fbe2ae8db3ba2bb29a411c5ca}
+      \strng{authorbibnamehash}{e6e1cb2fbe2ae8db3ba2bb29a411c5ca}
+      \strng{authornamehash}{e6e1cb2fbe2ae8db3ba2bb29a411c5ca}
+      \strng{authorfullhash}{e6e1cb2fbe2ae8db3ba2bb29a411c5ca}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Global System for Mobile Communications}
+      \verb{urlraw}
+      \verb https://www.3gpp.org/specifications/gsm-history
+      \endverb
+      \verb{url}
+      \verb https://www.3gpp.org/specifications/gsm-history
+      \endverb
+      \keyw{2g,gsm}
+    \endentry
+    \entry{gprs-edge}{online}{}
+      \name{author}{1}{}{%
+        {{hash=e6e1cb2fbe2ae8db3ba2bb29a411c5ca}{%
+           family={3gpp},
+           familyi={3\bibinitperiod}}}%
+      }
+      \strng{namehash}{e6e1cb2fbe2ae8db3ba2bb29a411c5ca}
+      \strng{fullhash}{e6e1cb2fbe2ae8db3ba2bb29a411c5ca}
+      \strng{bibnamehash}{e6e1cb2fbe2ae8db3ba2bb29a411c5ca}
+      \strng{authorbibnamehash}{e6e1cb2fbe2ae8db3ba2bb29a411c5ca}
+      \strng{authornamehash}{e6e1cb2fbe2ae8db3ba2bb29a411c5ca}
+      \strng{authorfullhash}{e6e1cb2fbe2ae8db3ba2bb29a411c5ca}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{General Packet Radio Service / Enhanced Data rates for Global Evolution}
+      \verb{urlraw}
+      \verb https://www.3gpp.org/technologies/keywords-acronyms/102-gprs-edge
+      \endverb
+      \verb{url}
+      \verb https://www.3gpp.org/technologies/keywords-acronyms/102-gprs-edge
+      \endverb
+      \keyw{2g,gprs,edge}
+    \endentry
+    \entry{gsm-architecture}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1ddb71294fbb0093b29aa279361a19cb}{%
+           family={Rahnema},
+           familyi={R\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{1ddb71294fbb0093b29aa279361a19cb}
+      \strng{fullhash}{1ddb71294fbb0093b29aa279361a19cb}
+      \strng{bibnamehash}{1ddb71294fbb0093b29aa279361a19cb}
+      \strng{authorbibnamehash}{1ddb71294fbb0093b29aa279361a19cb}
+      \strng{authornamehash}{1ddb71294fbb0093b29aa279361a19cb}
+      \strng{authorfullhash}{1ddb71294fbb0093b29aa279361a19cb}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Communications Magazine}
+      \field{number}{4}
+      \field{title}{Overview of the GSM system and protocol architecture}
+      \field{volume}{31}
+      \field{year}{1993}
+      \field{pages}{92\bibrangedash 100}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1109/35.210402
+      \endverb
+    \endentry
+    \entry{hspa}{online}{}
+      \name{author}{1}{}{%
+        {{hash=e6e1cb2fbe2ae8db3ba2bb29a411c5ca}{%
+           family={3gpp},
+           familyi={3\bibinitperiod}}}%
+      }
+      \strng{namehash}{e6e1cb2fbe2ae8db3ba2bb29a411c5ca}
+      \strng{fullhash}{e6e1cb2fbe2ae8db3ba2bb29a411c5ca}
+      \strng{bibnamehash}{e6e1cb2fbe2ae8db3ba2bb29a411c5ca}
+      \strng{authorbibnamehash}{e6e1cb2fbe2ae8db3ba2bb29a411c5ca}
+      \strng{authornamehash}{e6e1cb2fbe2ae8db3ba2bb29a411c5ca}
+      \strng{authorfullhash}{e6e1cb2fbe2ae8db3ba2bb29a411c5ca}
+      \field{extraname}{3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{High Speed Packet data Access}
+      \verb{urlraw}
+      \verb https://www.3gpp.org/technologies/keywords-acronyms/99-hspa
+      \endverb
+      \verb{url}
+      \verb https://www.3gpp.org/technologies/keywords-acronyms/99-hspa
+      \endverb
+      \keyw{3g,hspa}
+    \endentry
+    \entry{lte}{online}{}
+      \name{author}{1}{}{%
+        {{hash=e6e1cb2fbe2ae8db3ba2bb29a411c5ca}{%
+           family={3gpp},
+           familyi={3\bibinitperiod}}}%
+      }
+      \strng{namehash}{e6e1cb2fbe2ae8db3ba2bb29a411c5ca}
+      \strng{fullhash}{e6e1cb2fbe2ae8db3ba2bb29a411c5ca}
+      \strng{bibnamehash}{e6e1cb2fbe2ae8db3ba2bb29a411c5ca}
+      \strng{authorbibnamehash}{e6e1cb2fbe2ae8db3ba2bb29a411c5ca}
+      \strng{authornamehash}{e6e1cb2fbe2ae8db3ba2bb29a411c5ca}
+      \strng{authorfullhash}{e6e1cb2fbe2ae8db3ba2bb29a411c5ca}
+      \field{extraname}{4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Long Term Evolution}
+      \verb{urlraw}
+      \verb https://www.3gpp.org/technologies/keywords-acronyms/98-lte
+      \endverb
+      \verb{url}
+      \verb https://www.3gpp.org/technologies/keywords-acronyms/98-lte
+      \endverb
+      \keyw{4g,lte}
+    \endentry
+    \entry{5g-approach}{online}{}
+      \name{author}{2}{}{%
+        {{hash=3f3af29945f3176e9dd1a4ed829664ce}{%
+           family={Peterson},
+           familyi={P\bibinitperiod},
+           given={Larry},
+           giveni={L\bibinitperiod}}}%
+        {{hash=2ed17cf0d0b2c194f4dfd87c4d04f735}{%
+           family={Sunay},
+           familyi={S\bibinitperiod},
+           given={Oguz},
+           giveni={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{3f6cc4b2ea54482d190f445f352664fc}
+      \strng{fullhash}{3f6cc4b2ea54482d190f445f352664fc}
+      \strng{bibnamehash}{3f6cc4b2ea54482d190f445f352664fc}
+      \strng{authorbibnamehash}{3f6cc4b2ea54482d190f445f352664fc}
+      \strng{authornamehash}{3f6cc4b2ea54482d190f445f352664fc}
+      \strng{authorfullhash}{3f6cc4b2ea54482d190f445f352664fc}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{5G Mobile Networks: A Systems Approach}
+      \verb{urlraw}
+      \verb https://github.com/SystemsApproach/5G
+      \endverb
+      \verb{url}
+      \verb https://github.com/SystemsApproach/5G
+      \endverb
+      \keyw{5g,mobile-networks}
+    \endentry
+    \entry{5g-sdn}{article}{}
+      \name{author}{4}{}{%
+        {{hash=1f88e9dd3d4aeef62012f033aea9c589}{%
+           family={Barakabitze},
+           familyi={B\bibinitperiod},
+           given={Alcardo\bibnamedelima Alex},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=21d73b282329dfd1f20694a366b33e76}{%
+           family={Ahmad},
+           familyi={A\bibinitperiod},
+           given={Arslan},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d41227ac96f30820c5157f8710c0d9f1}{%
+           family={Mijumbi},
+           familyi={M\bibinitperiod},
+           given={Rashid},
+           giveni={R\bibinitperiod}}}%
+        {{hash=a01681bfde5ebe910beb4c8fd47b98b2}{%
+           family={Hines},
+           familyi={H\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{31178d431fbdf485994883d9a8e93eec}
+      \strng{fullhash}{f52c3fddd5107f715fa076df5ccb0a07}
+      \strng{bibnamehash}{31178d431fbdf485994883d9a8e93eec}
+      \strng{authorbibnamehash}{31178d431fbdf485994883d9a8e93eec}
+      \strng{authornamehash}{31178d431fbdf485994883d9a8e93eec}
+      \strng{authorfullhash}{f52c3fddd5107f715fa076df5ccb0a07}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1389-1286}
+      \field{journaltitle}{Computer Networks}
+      \field{title}{5G network slicing using SDN and NFV: A survey of taxonomy, architectures and future challenges}
+      \field{volume}{167}
+      \field{year}{2020}
+      \field{pages}{106984}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.comnet.2019.106984
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1389128619304773
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1389128619304773
+      \endverb
+      \keyw{5G,SDN,NFV,Network slicing,Cloud/edge computing,Network softwarization}
+    \endentry
+    \entry{dos-definition}{article}{}
+      \name{author}{6}{}{%
+        {{hash=97a1668f882d9f64dc3891ebe1ce737a}{%
+           family={Hattingh},
+           familyi={H\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=81003028ceb94a08582fdca058186793}{%
+           family={Lunsford},
+           familyi={L\bibinitperiod},
+           given={Dr.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=97a1668f882d9f64dc3891ebe1ce737a}{%
+           family={Hattingh},
+           familyi={H\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=fb9744402fb69a6d5106535f49353070}{%
+           family={Lunsford},
+           familyi={L\bibinitperiod},
+           given={Dr.\bibnamedelimi Phil},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=97a1668f882d9f64dc3891ebe1ce737a}{%
+           family={Hattingh},
+           familyi={H\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=81003028ceb94a08582fdca058186793}{%
+           family={Lunsford},
+           familyi={L\bibinitperiod},
+           given={Dr.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{1e190b6482ca5c2e49c5f0490f68b810}
+      \strng{fullhash}{3c87294c75f704812d473256b37270e8}
+      \strng{bibnamehash}{1e190b6482ca5c2e49c5f0490f68b810}
+      \strng{authorbibnamehash}{1e190b6482ca5c2e49c5f0490f68b810}
+      \strng{authornamehash}{1e190b6482ca5c2e49c5f0490f68b810}
+      \strng{authorfullhash}{3c87294c75f704812d473256b37270e8}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{DoS! Denial of Service}
+    \endentry
+    \entry{4g-dos-recap}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ade713b72ab996e5a9f252c156f5e2fa}{%
+           family={Piqueras\bibnamedelima Jover},
+           familyi={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={Roger},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{ade713b72ab996e5a9f252c156f5e2fa}
+      \strng{fullhash}{ade713b72ab996e5a9f252c156f5e2fa}
+      \strng{bibnamehash}{ade713b72ab996e5a9f252c156f5e2fa}
+      \strng{authorbibnamehash}{ade713b72ab996e5a9f252c156f5e2fa}
+      \strng{authornamehash}{ade713b72ab996e5a9f252c156f5e2fa}
+      \strng{authorfullhash}{ade713b72ab996e5a9f252c156f5e2fa}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{01}
+      \field{title}{Security attacks against the availability of LTE mobility networks: Overview and research directions}
+      \field{year}{2013}
+      \field{pages}{1\bibrangedash 9}
+      \range{pages}{9}
+    \endentry
+    \entry{umts-dos}{article}{}
+      \name{author}{5}{}{%
+        {{hash=a0766647744b11faad7a44ec758a8eee}{%
+           family={Merlo},
+           familyi={M\bibinitperiod},
+           given={Alessio},
+           giveni={A\bibinitperiod}}}%
+        {{hash=daa9b055c949145f1b37bffd03732d3b}{%
+           family={Migliardi},
+           familyi={M\bibinitperiod},
+           given={Mauro},
+           giveni={M\bibinitperiod}}}%
+        {{hash=74dc1e0f5c57f4b9c6ac80dea60c84ff}{%
+           family={Gobbo},
+           familyi={G\bibinitperiod},
+           given={Nicola},
+           giveni={N\bibinitperiod}}}%
+        {{hash=ef6329bb273cec2c4632c5d3cf605280}{%
+           family={Palmieri},
+           familyi={P\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod}}}%
+        {{hash=1c9fab843e954f50a76a6f0cb289bcf3}{%
+           family={Castiglione},
+           familyi={C\bibinitperiod},
+           given={Aniello},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{4a880b1a20997e855b8936a259c55d88}
+      \strng{fullhash}{aac89eeca3f7af792bea0bff802d893b}
+      \strng{bibnamehash}{4a880b1a20997e855b8936a259c55d88}
+      \strng{authorbibnamehash}{4a880b1a20997e855b8936a259c55d88}
+      \strng{authornamehash}{4a880b1a20997e855b8936a259c55d88}
+      \strng{authorfullhash}{aac89eeca3f7af792bea0bff802d893b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Dependable and Secure Computing}
+      \field{number}{3}
+      \field{title}{A Denial of Service Attack to UMTS Networks Using SIM-Less Devices}
+      \field{volume}{11}
+      \field{year}{2014}
+      \field{pages}{280\bibrangedash 291}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1109/TDSC.2014.2315198
+      \endverb
+    \endentry
+    \entry{gsm-dos-simless}{article}{}
+      \name{author}{3}{}{%
+        {{hash=74dc1e0f5c57f4b9c6ac80dea60c84ff}{%
+           family={Gobbo},
+           familyi={G\bibinitperiod},
+           given={Nicola},
+           giveni={N\bibinitperiod}}}%
+        {{hash=a0766647744b11faad7a44ec758a8eee}{%
+           family={Merlo},
+           familyi={M\bibinitperiod},
+           given={Alessio},
+           giveni={A\bibinitperiod}}}%
+        {{hash=daa9b055c949145f1b37bffd03732d3b}{%
+           family={Migliardi},
+           familyi={M\bibinitperiod},
+           given={Mauro},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{68bdeddcdf72f93051cf98f441e41d0a}
+      \strng{fullhash}{68bdeddcdf72f93051cf98f441e41d0a}
+      \strng{bibnamehash}{68bdeddcdf72f93051cf98f441e41d0a}
+      \strng{authorbibnamehash}{68bdeddcdf72f93051cf98f441e41d0a}
+      \strng{authornamehash}{68bdeddcdf72f93051cf98f441e41d0a}
+      \strng{authorfullhash}{68bdeddcdf72f93051cf98f441e41d0a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{09}
+      \field{title}{A Denial of Service Attack to GSM Networks via Attach Procedure}
+      \field{year}{2013}
+      \verb{doi}
+      \verb 10.1007/978-3-642-40588-4_25
+      \endverb
+    \endentry
+    \entry{measuring-dos}{article}{}
+      \name{author}{1}{}{%
+        {{hash=43a512b300bbaed90787c310b5ddeb6b}{%
+           family={Traynor},
+           familyi={T\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{43a512b300bbaed90787c310b5ddeb6b}
+      \strng{fullhash}{43a512b300bbaed90787c310b5ddeb6b}
+      \strng{bibnamehash}{43a512b300bbaed90787c310b5ddeb6b}
+      \strng{authorbibnamehash}{43a512b300bbaed90787c310b5ddeb6b}
+      \strng{authornamehash}{43a512b300bbaed90787c310b5ddeb6b}
+      \strng{authorfullhash}{43a512b300bbaed90787c310b5ddeb6b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{In Proc. 16th Conference on Computer and Communications Security}
+      \field{title}{On Cellular Botnets: Measuring the Impact of Malicious Devices on a Cellular Network Core}
+      \field{year}{2009}
+    \endentry
+    \entry{identifications}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b8fca345a952145425670aae9f967e08}{%
+           family={Nakarmi},
+           familyi={N\bibinitperiod},
+           given={Prajwol\bibnamedelima Kumar},
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{b8fca345a952145425670aae9f967e08}
+      \strng{fullhash}{b8fca345a952145425670aae9f967e08}
+      \strng{bibnamehash}{b8fca345a952145425670aae9f967e08}
+      \strng{authorbibnamehash}{b8fca345a952145425670aae9f967e08}
+      \strng{authornamehash}{b8fca345a952145425670aae9f967e08}
+      \strng{authorfullhash}{b8fca345a952145425670aae9f967e08}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.CR}
+      \field{eprinttype}{arXiv}
+      \field{title}{Cheatsheets for Authentication and Key Agreements in 2G, 3G, 4G, and 5G}
+      \field{year}{2021}
+      \verb{eprint}
+      \verb 2107.07416
+      \endverb
+    \endentry
+    \entry{4g-auth}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=ca36f986fcd1b6cf36588393714b3a8c}{%
+           family={Vintilă},
+           familyi={V\bibinitperiod},
+           given={Cristina-Elena},
+           giveni={C\bibinithyphendelim E\bibinitperiod}}}%
+        {{hash=6ce888d13ad9f21f00a22429624fdb56}{%
+           family={Patriciu},
+           familyi={P\bibinitperiod},
+           given={Victor-Valeriu},
+           giveni={V\bibinithyphendelim V\bibinitperiod}}}%
+        {{hash=9555399c524a18780f3f6672902f9f2c}{%
+           family={Bica},
+           familyi={B\bibinitperiod},
+           given={Ion},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{81dd0b995a84ded9601d83c8b936bd00}
+      \strng{fullhash}{81dd0b995a84ded9601d83c8b936bd00}
+      \strng{bibnamehash}{81dd0b995a84ded9601d83c8b936bd00}
+      \strng{authorbibnamehash}{81dd0b995a84ded9601d83c8b936bd00}
+      \strng{authornamehash}{81dd0b995a84ded9601d83c8b936bd00}
+      \strng{authorfullhash}{81dd0b995a84ded9601d83c8b936bd00}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{01}
+      \field{title}{Security Analysis of LTE Access Network}
+      \field{year}{2011}
+    \endentry
+    \entry{5g-vs-4g}{online}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{title}{A Comparative Introduction to 4G and 5G Authentication}
+      \verb{urlraw}
+      \verb https://www.cablelabs.com/insights/a-comparative-introduction-to-4g-and-5g-authentication
+      \endverb
+      \verb{url}
+      \verb https://www.cablelabs.com/insights/a-comparative-introduction-to-4g-and-5g-authentication
+      \endverb
+      \keyw{5g,4g,authentication}
+    \endentry
+    \entry{5g-auth}{article}{}
+      \name{author}{6}{}{%
+        {{hash=96dd2002d303d0089f664a145acfbf90}{%
+           family={Basin},
+           familyi={B\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=559fa8c5f2ac37129625e7394da306e9}{%
+           family={Dreier},
+           familyi={D\bibinitperiod},
+           given={Jannik},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b2da3704d36d08a17c72092d6b2cb79d}{%
+           family={Hirschi},
+           familyi={H\bibinitperiod},
+           given={Lucca},
+           giveni={L\bibinitperiod}}}%
+        {{hash=6910a6e4e29890862d1964707bead847}{%
+           family={Radomirovic},
+           familyi={R\bibinitperiod},
+           given={Saša},
+           giveni={S\bibinitperiod}}}%
+        {{hash=cfcfdeb2057cb14a1898fe8c0eb22c01}{%
+           family={Sasse},
+           familyi={S\bibinitperiod},
+           given={Ralf},
+           giveni={R\bibinitperiod}}}%
+        {{hash=bca48dbd54f48488ba598744fe009ec0}{%
+           family={Stettler},
+           familyi={S\bibinitperiod},
+           given={Vincent},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{f80a7d439f5f178c15bf69221242ba65}
+      \strng{fullhash}{389101221aed1ac9f4d2832c4468cb5a}
+      \strng{bibnamehash}{f80a7d439f5f178c15bf69221242ba65}
+      \strng{authorbibnamehash}{f80a7d439f5f178c15bf69221242ba65}
+      \strng{authornamehash}{f80a7d439f5f178c15bf69221242ba65}
+      \strng{authorfullhash}{389101221aed1ac9f4d2832c4468cb5a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781450356930}
+      \field{journaltitle}{Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security}
+      \field{month}{1}
+      \field{title}{A Formal Analysis of 5G Authentication}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.1145/3243734.3243846
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1145/3243734.3243846
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1145/3243734.3243846
+      \endverb
+    \endentry
+    \entry{imsi-catcher}{article}{}
+      \name{author}{2}{}{%
+        {{hash=22fb1db7e6327eeda7f30f67056e0232}{%
+           family={Alrashede},
+           familyi={A\bibinitperiod},
+           given={Hamad},
+           giveni={H\bibinitperiod}}}%
+        {{hash=58e681fcb43ecf7a3467dafda4d741a6}{%
+           family={Shaikh},
+           familyi={S\bibinitperiod},
+           given={Riaz\bibnamedelima Ahmed},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{91e8727536dda6ab2f053f059e065e43}
+      \strng{fullhash}{91e8727536dda6ab2f053f059e065e43}
+      \strng{bibnamehash}{91e8727536dda6ab2f053f059e065e43}
+      \strng{authorbibnamehash}{91e8727536dda6ab2f053f059e065e43}
+      \strng{authornamehash}{91e8727536dda6ab2f053f059e065e43}
+      \strng{authorfullhash}{91e8727536dda6ab2f053f059e065e43}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2019 2nd International Conference on Computer Applications Information Security (ICCAIS)}
+      \field{title}{IMSI Catcher Detection Method for Cellular Networks}
+      \field{year}{2019}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/CAIS.2019.8769507
+      \endverb
+    \endentry
+    \entry{dos-imsi}{article}{}
+      \name{author}{3}{}{%
+        {{hash=9f4d433492228259633fff8741401ea0}{%
+           family={Khan},
+           familyi={K\bibinitperiod},
+           given={Muzammil},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e650386ac68b0fc2ba8b22aa1be07e20}{%
+           family={Ahmed},
+           familyi={A\bibinitperiod},
+           given={Attiq},
+           giveni={A\bibinitperiod}}}%
+        {{hash=90ca24e6663daa9aeb657d112d3081d8}{%
+           family={Cheema},
+           familyi={C\bibinitperiod},
+           given={Ahmad\bibnamedelima Raza},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{0735081ccbf1366dda1a90ab923c6733}
+      \strng{fullhash}{0735081ccbf1366dda1a90ab923c6733}
+      \strng{bibnamehash}{0735081ccbf1366dda1a90ab923c6733}
+      \strng{authorbibnamehash}{0735081ccbf1366dda1a90ab923c6733}
+      \strng{authornamehash}{0735081ccbf1366dda1a90ab923c6733}
+      \strng{authorfullhash}{0735081ccbf1366dda1a90ab923c6733}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2008 Ninth ACIS International Conference on Software Engineering, Artificial Intelligence, Networking, and Parallel/Distributed Computing}
+      \field{title}{Vulnerabilities of UMTS Access Domain Security Architecture}
+      \field{year}{2008}
+      \field{pages}{350\bibrangedash 355}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/SNPD.2008.78
+      \endverb
+    \endentry
+    \entry{dos-detection-with-sdn}{article}{}
+      \name{author}{4}{}{%
+        {{hash=54c48b914f045a5f3e8dd286b0fb3859}{%
+           family={Forland},
+           familyi={F\bibinitperiod},
+           given={Mathias\bibnamedelima Kjolleberg},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=e3b52f88356f5c6b1c834e4d6e81fa60}{%
+           family={Kralevska},
+           familyi={K\bibinitperiod},
+           given={Katina},
+           giveni={K\bibinitperiod}}}%
+        {{hash=70048832dd23747ce48473b824601221}{%
+           family={Garau},
+           familyi={G\bibinitperiod},
+           given={Michele},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4254bfd2d824a0bc08e83eeab7e36be6}{%
+           family={Gligoroski},
+           familyi={G\bibinitperiod},
+           given={Danilo},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{e81ec849f2043ee70de92e3d2a51d34d}
+      \strng{fullhash}{e55fbcd5c40783c8a8e2e23fc82314de}
+      \strng{bibnamehash}{e81ec849f2043ee70de92e3d2a51d34d}
+      \strng{authorbibnamehash}{e81ec849f2043ee70de92e3d2a51d34d}
+      \strng{authornamehash}{e81ec849f2043ee70de92e3d2a51d34d}
+      \strng{authorfullhash}{e55fbcd5c40783c8a8e2e23fc82314de}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2019 IEEE Globecom Workshops (GC Wkshps)}
+      \field{title}{Preventing DDoS with SDN in 5G}
+      \field{year}{2019}
+      \field{pages}{1\bibrangedash 7}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1109/GCWkshps45667.2019.9024497
+      \endverb
+    \endentry
+    \entry{5g-dos}{article}{}
+      \name{author}{2}{}{%
+        {{hash=9f8cb86047c6aed0091825999ea1dccf}{%
+           family={Javed},
+           familyi={J\bibinitperiod},
+           given={M\bibnamedelima Awais},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=467a3e3e1d7d6626a5d5dcba704c5e0b}{%
+           family={Niazi},
+           familyi={N\bibinitperiod},
+           given={Sohaib},
+           giveni={S\bibinitperiod},
+           prefix={khan},
+           prefixi={k\bibinitperiod}}}%
+      }
+      \strng{namehash}{1770c9da92dcd9484b983efbfab0405d}
+      \strng{fullhash}{1770c9da92dcd9484b983efbfab0405d}
+      \strng{bibnamehash}{1770c9da92dcd9484b983efbfab0405d}
+      \strng{authorbibnamehash}{1770c9da92dcd9484b983efbfab0405d}
+      \strng{authornamehash}{1770c9da92dcd9484b983efbfab0405d}
+      \strng{authorfullhash}{1770c9da92dcd9484b983efbfab0405d}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2019 International Conference on Communication Technologies (ComTech)}
+      \field{title}{5G Security Artifacts (DoS / DDoS and Authentication)}
+      \field{year}{2019}
+      \field{pages}{127\bibrangedash 133}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1109/COMTECH.2019.8737800
+      \endverb
+    \endentry
+    \entry{suci-catch}{article}{}
+      \name{author}{4}{}{%
+        {{hash=967f07e3bf4aa8da5cbf9ea55d931f1f}{%
+           family={Chlosta},
+           familyi={C\bibinitperiod},
+           given={Merlin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9f51a78ae1a1e7c9aac1a534df6151f8}{%
+           family={Rupprecht},
+           familyi={R\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=ae06b3859d4f1ace267c3fbdd63e7266}{%
+           family={Pöpper},
+           familyi={P\bibinitperiod},
+           given={Christina},
+           giveni={C\bibinitperiod}}}%
+        {{hash=6e1ecd611c7129ad7a6eb6a9a98f11f6}{%
+           family={Holz},
+           familyi={H\bibinitperiod},
+           given={Thorsten},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Abu Dhabi, United Arab Emirates}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{4168b730a765e1bd2db4561c4a44bacf}
+      \strng{fullhash}{07092a47b10ddfd54932deecd3376bbb}
+      \strng{bibnamehash}{4168b730a765e1bd2db4561c4a44bacf}
+      \strng{authorbibnamehash}{4168b730a765e1bd2db4561c4a44bacf}
+      \strng{authornamehash}{4168b730a765e1bd2db4561c4a44bacf}
+      \strng{authorfullhash}{07092a47b10ddfd54932deecd3376bbb}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 14th ACM Conference on Security and Privacy in Wireless and Mobile Networks}
+      \field{isbn}{9781450383493}
+      \field{series}{WiSec '21}
+      \field{title}{5G SUCI-Catchers: Still Catching Them All?}
+      \field{year}{2021}
+      \field{pages}{359\bibrangedash 364}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1145/3448300.3467826
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/3448300.3467826
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/3448300.3467826
+      \endverb
+      \keyw{AKA,SUPI,fake base station,5G security,SUCI,SUCI-catcher,IMSI,subscription concealed identifier,IMSI-catcher}
+    \endentry
+    \entry{5g-nr}{article}{}
+      \name{author}{2}{}{%
+        {{hash=0c1425aaee0afa76c292fafe3a41c285}{%
+           family={Dahlman},
+           familyi={D\bibinitperiod},
+           given={Erik},
+           giveni={E\bibinitperiod}}}%
+        {{hash=259271b16e241470190e543b84a60792}{%
+           family={Parkvall},
+           familyi={P\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{b89c07cb1536f03641926d13fae7c6e1}
+      \strng{fullhash}{b89c07cb1536f03641926d13fae7c6e1}
+      \strng{bibnamehash}{b89c07cb1536f03641926d13fae7c6e1}
+      \strng{authorbibnamehash}{b89c07cb1536f03641926d13fae7c6e1}
+      \strng{authornamehash}{b89c07cb1536f03641926d13fae7c6e1}
+      \strng{authorfullhash}{b89c07cb1536f03641926d13fae7c6e1}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2018 IEEE 87th Vehicular Technology Conference (VTC Spring)}
+      \field{title}{NR - The New 5G Radio-Access Technology}
+      \field{year}{2018}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/VTCSpring.2018.8417851
+      \endverb
+    \endentry
+    \entry{5g-lightweight}{article}{}
+      \name{author}{3}{}{%
+        {{hash=db5f838cc27e4126006cf0fc3389cb52}{%
+           family={Gharsallah},
+           familyi={G\bibinitperiod},
+           given={Ikram},
+           giveni={I\bibinitperiod}}}%
+        {{hash=8c656fdd52bfeed9c181e5c60d2ff0a2}{%
+           family={Smaoui},
+           familyi={S\bibinitperiod},
+           given={Salima},
+           giveni={S\bibinitperiod}}}%
+        {{hash=fd9461a3d1b524acd55664b8d4cc0f50}{%
+           family={Zarai},
+           familyi={Z\bibinitperiod},
+           given={Faouzi},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{ab5805a43facc065e820a315bf184299}
+      \strng{fullhash}{ab5805a43facc065e820a315bf184299}
+      \strng{bibnamehash}{ab5805a43facc065e820a315bf184299}
+      \strng{authorbibnamehash}{ab5805a43facc065e820a315bf184299}
+      \strng{authornamehash}{ab5805a43facc065e820a315bf184299}
+      \strng{authorfullhash}{ab5805a43facc065e820a315bf184299}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2019 15th International Wireless Communications Mobile Computing Conference (IWCMC)}
+      \field{title}{A Secure Efficient and Lightweight authentication protocol for 5G cellular networks: SEL-AKA}
+      \field{year}{2019}
+      \field{pages}{1311\bibrangedash 1316}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/IWCMC.2019.8766448
+      \endverb
+    \endentry
+  \enddatalist
+  \missing{williams2014-air}
+\endrefsection
+\endinput
+

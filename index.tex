@@ -1,0 +1,77 @@
+\documentclass[12px]{report}
+
+%
+%   Packages
+%
+\usepackage[a4paper,top=2cm,bottom=2cm,left=2cm,right=2cm]{geometry}
+\usepackage{graphicx}
+\usepackage[sorting=none]{biblatex}
+\usepackage[acronym]{glossaries}
+\usepackage[english]{babel}
+\usepackage{csquotes}
+\usepackage{setspace}
+
+%
+%   Line spacing
+%
+\setstretch{1.5}
+
+
+%
+%   Utilities and costants
+%
+\def\blankpage{
+    \clearpage
+    \thispagestyle{empty}
+    \addtocounter{page}{-1}
+    \null
+    \clearpage
+}
+
+%
+%   Acronyms
+%
+\input{formats/acronyms.tex}
+\makenoidxglossaries
+
+%
+%   References
+%
+\addbibresource{formats/references.bib}
+
+%
+%   Document
+%
+\begin{document}
+    \input{includes/titlepage.tex}
+    %\blankpage
+    \input{includes/abstract.tex}
+    \clearpage
+    \tableofcontents{}
+    \clearpage
+    \listoffigures
+    \clearpage
+    \printnoidxglossary[type=acronym, title={List of abbreviations}, style=index, nonumberlist]
+    \printacronyms
+    \clearpage
+    \input{includes/introduzione.tex}
+    \clearpage
+    \input{includes/systemarchitecture.tex}
+    \clearpage
+    \input{includes/generazioni.tex}
+    \clearpage
+    \input{includes/dos.tex}
+    \clearpage
+    \input{includes/autenticazione.tex}
+    \clearpage
+    \input{includes/2g-4gdos.tex}
+    \clearpage
+    \input{includes/5gdos.tex}
+    \clearpage
+    \input{includes/conclusioni.tex}
+    \clearpage
+    \printbibliography[
+        heading=bibintoc,
+        title={Bibliografia}
+    ]
+\end{document}
