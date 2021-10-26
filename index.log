@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.10.5)  21 OCT 2021 20:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.10.5)  26 OCT 2021 18:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -510,6 +510,21 @@ Package csquotes Info: ... configuration file loaded successfully.
 File: csquotes.cfg 
 )) (c:/texlive/2021/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
+) (c:/texlive/2021/texmf-dist/tex/latex/makecell/makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+ (c:/texlive/2021/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
+\col@sep=\dimen170
+\ar@mcellbox=\box58
+\extrarowheight=\dimen171
+\NC@list=\toks35
+\extratabsurround=\skip87
+\backup@length=\skip88
+\ar@cellbox=\box59
+)
+\rotheadsize=\dimen172
+\c@nlinenum=\count433
+\TeXr@lab=\toks36
 ) (./formats/acronyms.tex)
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
@@ -517,8 +532,8 @@ Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'english'.
  (c:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count433
-\l__pdf_internal_box=\box58
+\l__color_backend_stack_int=\count434
+\l__pdf_internal_box=\box60
 )
 
 LaTeX Warning: Unused global option(s):
@@ -527,20 +542,20 @@ LaTeX Warning: Unused global option(s):
 (./index.aux)
 \openout1 = `index.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -578,17 +593,17 @@ LaTeX Font Info:    ... okay on input line 45.
 
 (c:/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count434
-\scratchdimen=\dimen170
-\scratchbox=\box59
-\nofMPsegments=\count435
-\nofMParguments=\count436
-\everyMPshowfont=\toks35
-\MPscratchCnt=\count437
-\MPscratchDim=\dimen171
-\MPnumerator=\count438
-\makeMPintoPDFobject=\count439
-\everyMPtoPDFconversion=\toks36
+\scratchcounter=\count435
+\scratchdimen=\dimen173
+\scratchbox=\box61
+\nofMPsegments=\count436
+\nofMParguments=\count437
+\everyMPshowfont=\toks37
+\MPscratchCnt=\count438
+\MPscratchDim=\dimen174
+\MPnumerator=\count439
+\makeMPintoPDFobject=\count440
+\everyMPtoPDFconversion=\toks38
 ) (c:/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -620,17 +635,9 @@ Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'index.bbl' found.
- (./index.bbl
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                williams2014-air
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-)
-Package biblatex Info: Reference section=0 on input line 45.
-Package biblatex Info: Reference segment=0 on input line 45.
+ (./index.bbl)
+Package biblatex Info: Reference section=0 on input line 46.
+Package biblatex Info: Reference segment=0 on input line 46.
  (./includes/titlepage.tex
 <images/unipd.png, id=1, 205.2468pt x 95.3964pt>
 File: images/unipd.png Graphic file (type png)
@@ -644,275 +651,95 @@ Package pdftex.def Info: images/dei.png  used on input line 5.
 (pdftex.def)             Requested size: 145.11053pt x 86.68404pt.
  [1
 
-{c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./images/unipd.png> <./images/dei.png>] [2]) (./includes/abstract.tex [1]) (./index.toc [1
-
-
-])
+{c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./images/unipd.png> <./images/dei.png>] [2]) (./includes/abstract.tex [1]) (./index.toc)
 \tf@toc=\write4
 \openout4 = `index.toc'.
 
- [2] (./index.lof)
+ [1
+
+
+] (./index.lof)
 \tf@lof=\write5
 \openout5 = `index.lof'.
 
- [3
+ [2
 
 
 ]
 Using TeX to sort glossary entries---this may take a while
+No file index.acr.
+[3
+
+
+] (./includes/introduction.tex
+Chapter 1.
 [4
 
 
 ]
-No file index.acr.
-[5] [6] (./includes/introduzione.tex
-Chapter 1.
-[7
+Overfull \hbox (4.76933pt too wide) in paragraph at lines 17--36
+ [][] 
+ []
 
+<images/ARPAV stazioni rete 2019.jpg, id=35, 770.88pt x 770.88pt>
+File: images/ARPAV stazioni rete 2019.jpg Graphic file (type jpg)
+<use images/ARPAV stazioni rete 2019.jpg>
+Package pdftex.def Info: images/ARPAV stazioni rete 2019.jpg  used on input line 42.
+(pdftex.def)             Requested size: 338.58632pt x 338.5766pt.
 
-] [8]) [9] (./includes/systemarchitecture.tex
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[5] [6 <./images/ARPAV stazioni rete 2019.jpg>]) [7] (./includes/ariaoveriew.tex
 Chapter 2.
+) [8
+
+
+] (./includes/systemarchitecture.tex
+Chapter 3.
+) [9
+
+
+] (./includes/sensors.tex
+Chapter 4.
 ) [10
 
 
-] (./includes/generazioni.tex
-Chapter 3.
-<images/generations-scheme.jpg, id=55, 616.704pt x 326.6604pt>
-File: images/generations-scheme.jpg Graphic file (type jpg)
-<use images/generations-scheme.jpg>
-Package pdftex.def Info: images/generations-scheme.jpg  used on input line 11.
-(pdftex.def)             Requested size: 338.58632pt x 179.34476pt.
-[11
-
-
- <./images/generations-scheme.jpg>]
-<images/1g.jpg, id=59, 376.40625pt x 237.88875pt>
-File: images/1g.jpg Graphic file (type jpg)
-<use images/1g.jpg>
-Package pdftex.def Info: images/1g.jpg  used on input line 28.
-(pdftex.def)             Requested size: 338.58632pt x 214.0035pt.
- [12
-
- <./images/1g.jpg>]
-<images/2g-gsm.jpg, id=63, 612.03656pt x 289.83281pt>
-File: images/2g-gsm.jpg Graphic file (type jpg)
-<use images/2g-gsm.jpg>
-Package pdftex.def Info: images/2g-gsm.jpg  used on input line 51.
-(pdftex.def)             Requested size: 338.58632pt x 160.33725pt.
- [13
-
- <./images/2g-gsm.jpg>]
-<images/2g-gprs.png, id=67, 853.1875pt x 282.05376pt>
-File: images/2g-gprs.png Graphic file (type png)
-<use images/2g-gprs.png>
-Package pdftex.def Info: images/2g-gprs.png  used on input line 76.
-(pdftex.def)             Requested size: 338.58632pt x 111.9329pt.
- [14
-
- <./images/2g-gprs.png>]
-<images/3g-umts.png, id=72, 1156.32pt x 716.6775pt>
-File: images/3g-umts.png Graphic file (type png)
-<use images/3g-umts.png>
-Package pdftex.def Info: images/3g-umts.png  used on input line 100.
-(pdftex.def)             Requested size: 338.58632pt x 209.8433pt.
- [15
-
- <./images/3g-umts.png>]
-<images/4g-lte.jpg, id=76, 331.2908pt x 160.52893pt>
-File: images/4g-lte.jpg Graphic file (type jpg)
-<use images/4g-lte.jpg>
-Package pdftex.def Info: images/4g-lte.jpg  used on input line 129.
-(pdftex.def)             Requested size: 386.95897pt x 187.507pt.
- [16
-
- <./images/4g-lte.jpg>]
-<images/5g-planes.png, id=81, 705.63625pt x 275.0275pt>
-File: images/5g-planes.png Graphic file (type png)
-<use images/5g-planes.png>
-Package pdftex.def Info: images/5g-planes.png  used on input line 161.
-(pdftex.def)             Requested size: 386.95897pt x 150.82076pt.
- [17
-
-] [18 <./images/5g-planes.png>]
-<images/5g-eg-of-use.png, id=89, 752.5716pt x 178.9887pt>
-File: images/5g-eg-of-use.png Graphic file (type png)
-<use images/5g-eg-of-use.png>
-Package pdftex.def Info: images/5g-eg-of-use.png  used on input line 173.
-(pdftex.def)             Requested size: 386.95897pt x 92.03134pt.
-<images/5g-slicing.jpg, id=90, 511.9125pt x 364.9635pt>
-File: images/5g-slicing.jpg Graphic file (type jpg)
-<use images/5g-slicing.jpg>
-Package pdftex.def Info: images/5g-slicing.jpg  used on input line 180.
-(pdftex.def)             Requested size: 386.95897pt x 275.8771pt.
- [19
-
- <./images/5g-eg-of-use.png> <./images/5g-slicing.jpg>]) [20
-
-] (./includes/dos.tex
-Chapter 4.
-[21
-
-
-]
-<images/dos-jamming.png, id=102, 845.1575pt x 425.59pt>
-File: images/dos-jamming.png Graphic file (type png)
-<use images/dos-jamming.png>
-Package pdftex.def Info: images/dos-jamming.png  used on input line 21.
-(pdftex.def)             Requested size: 290.22107pt x 146.14684pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--24
-
- []
-
-<images/ddos.jpg, id=103, 1931.215pt x 994.71625pt>
-File: images/ddos.jpg Graphic file (type jpg)
-<use images/ddos.jpg>
-Package pdftex.def Info: images/ddos.jpg  used on input line 34.
-(pdftex.def)             Requested size: 241.84843pt x 124.5669pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 30--37
-
- []
-
-[22
-
- <./images/dos-jamming.png> <./images/ddos.jpg>]
-<images/hlr-measuring.png, id=109, 592.2125pt x 354.32375pt>
-File: images/hlr-measuring.png Graphic file (type png)
-<use images/hlr-measuring.png>
-Package pdftex.def Info: images/hlr-measuring.png  used on input line 60.
-(pdftex.def)             Requested size: 338.58632pt x 202.58298pt.
-) [23 <./images/hlr-measuring.png>] (./includes/autenticazione.tex
+] (./includes/software.tex
 Chapter 5.
-[24
+) [11
 
 
-]
-Overfull \hbox (11.71846pt too wide) in paragraph at lines 28--30
-[]\OT1/cmr/m/n/10 Il []VLR con-fronta se l'[]SRES rice-vuto cor-risponde a quello gen-er-ato dall'[]AuC, se cor-rispon-dono l'autenticazione
- []
-
-<images/auth-2g.png, id=117, 567.11874pt x 351.3125pt>
-File: images/auth-2g.png Graphic file (type png)
-<use images/auth-2g.png>
-Package pdftex.def Info: images/auth-2g.png  used on input line 34.
-(pdftex.def)             Requested size: 338.58632pt x 209.74916pt.
-[25
-
- <./images/auth-2g.png>]
-Overfull \hbox (13.94067pt too wide) in paragraph at lines 57--59
-[]\OT1/cmr/m/n/10 Il []VLR con-fronta se il SRES rice-vuto cor-risponde a quello gen-er-ato dall'[]AuC, se cor-rispon-dono l'autenticazione
- []
-
-<images/auth-3g.png, id=122, 933.4875pt x 720.6925pt>
-File: images/auth-3g.png Graphic file (type png)
-<use images/auth-3g.png>
-Package pdftex.def Info: images/auth-3g.png  used on input line 62.
-(pdftex.def)             Requested size: 338.58632pt x 261.40654pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[26
-
-] [27 <./images/auth-3g.png>]
-<images/auth-5g.png, id=129, 15178.7075pt x 7020.2275pt>
-File: images/auth-5g.png Graphic file (type png)
-<use images/auth-5g.png>
-Package pdftex.def Info: images/auth-5g.png  used on input line 100.
-(pdftex.def)             Requested size: 483.69687pt x 223.66637pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) [28
-
-] [29 <./images/auth-5g.png>] (./includes/2g-4gdos.tex
+] (./includes/testflight.tex
 Chapter 6.
-[30
+) [12
 
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 21--29
-
- []
-
-<images/imsi-catcher.jpg, id=141, 396.7322pt x 196.48407pt>
-File: images/imsi-catcher.jpg Graphic file (type jpg)
-<use images/imsi-catcher.jpg>
-Package pdftex.def Info: images/imsi-catcher.jpg  used on input line 37.
-(pdftex.def)             Requested size: 241.84843pt x 119.78015pt.
-<images/imsi-catch-umts.png, id=142, 422.57875pt x 270.00874pt>
-File: images/imsi-catch-umts.png Graphic file (type png)
-<use images/imsi-catch-umts.png>
-Package pdftex.def Info: images/imsi-catch-umts.png  used on input line 49.
-(pdftex.def)             Requested size: 241.84843pt x 154.5328pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 31--52
-
- []
-
-[31
-
- <./images/imsi-catcher.jpg>] [32 <./images/imsi-catch-umts.png>]
-<images/gsm-air-channel.png, id=150, 469.755pt x 612.2875pt>
-File: images/gsm-air-channel.png Graphic file (type png)
-<use images/gsm-air-channel.png>
-Package pdftex.def Info: images/gsm-air-channel.png  used on input line 67.
-(pdftex.def)             Requested size: 241.84843pt x 315.22415pt.
- [33
-
- <./images/gsm-air-channel.png>]
-<images/umts-dos-device.png, id=155, 732.7375pt x 204.765pt>
-File: images/umts-dos-device.png Graphic file (type png)
-<use images/umts-dos-device.png>
-Package pdftex.def Info: images/umts-dos-device.png  used on input line 77.
-(pdftex.def)             Requested size: 241.84843pt x 67.58514pt.
-<images/umts-air-channel.png, id=156, 454.69875pt x 526.96875pt>
-File: images/umts-air-channel.png Graphic file (type png)
-<use images/umts-air-channel.png>
-Package pdftex.def Info: images/umts-air-channel.png  used on input line 84.
-(pdftex.def)             Requested size: 241.84843pt x 280.28917pt.
-) [34
-
- <./images/umts-dos-device.png> <./images/umts-air-channel.png>] (./includes/5gdos.tex
+] (./includes/conclusions.tex
 Chapter 7.
-[35
+) [13
 
 
-]
-<images/5g-suci.png, id=166, 566.86781pt x 85.06781pt>
-File: images/5g-suci.png Graphic file (type png)
-<use images/5g-suci.png>
-Package pdftex.def Info: images/5g-suci.png  used on input line 25.
-(pdftex.def)             Requested size: 386.95897pt x 58.0712pt.
-) [36
-
- <./images/5g-suci.png>] (./includes/conclusioni.tex
-Chapter 8.
-) [37
+] [14
 
 
-] [38
-
-
-] [39] (./index.aux)
+] (./index.aux)
 Package logreq Info: Writing requests to 'index.run.xml'.
 \openout1 = `index.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 17784 strings out of 478599
- 308535 string characters out of 5858101
- 1114939 words of memory out of 5000000
- 35398 multiletter control sequences out of 15000+600000
- 408482 words of font info for 44 fonts, out of 8000000 for 9000
+ 17725 strings out of 478599
+ 304391 string characters out of 5858101
+ 1111981 words of memory out of 5000000
+ 35350 multiletter control sequences out of 15000+600000
+ 410037 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 91i,7n,94p,1417b,2833s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on index.pdf (42 pages, 2794432 bytes).
+ 91i,17n,94p,1556b,2827s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on index.pdf (17 pages, 412484 bytes).
 PDF statistics:
- 229 PDF objects out of 1000 (max. 8388607)
- 127 compressed objects within 2 object streams
+ 115 PDF objects out of 1000 (max. 8388607)
+ 71 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 116 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

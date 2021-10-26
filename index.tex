@@ -10,6 +10,7 @@
 \usepackage[english]{babel}
 \usepackage{csquotes}
 \usepackage{setspace}
+\usepackage{makecell}
 
 %
 %   Line spacing
@@ -54,24 +55,22 @@
     \printnoidxglossary[type=acronym, title={List of abbreviations}, style=index, nonumberlist]
     \printacronyms
     \clearpage
-    \input{includes/introduzione.tex}
+    \input{includes/introduction.tex}
+    \clearpage
+    \input{includes/ariaoveriew.tex}
     \clearpage
     \input{includes/systemarchitecture.tex}
     \clearpage
-    \input{includes/generazioni.tex}
+    \input{includes/sensors.tex}
     \clearpage
-    \input{includes/dos.tex}
+    \input{includes/software.tex}
     \clearpage
-    \input{includes/autenticazione.tex}
+    \input{includes/testflight.tex}
     \clearpage
-    \input{includes/2g-4gdos.tex}
-    \clearpage
-    \input{includes/5gdos.tex}
-    \clearpage
-    \input{includes/conclusioni.tex}
+    \input{includes/conclusions.tex}
     \clearpage
     \printbibliography[
         heading=bibintoc,
-        title={Bibliografia}
+        title={Bibliography}
     ]
 \end{document}

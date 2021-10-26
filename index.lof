@@ -3,58 +3,16 @@
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {1.1}{\ignorespaces ARPAV monitoring netowrk in the Veneto region, Italy\cite {arpav}}}{6}{}%
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Schema delle generazioni cellulari}}{11}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Architettura 1G}}{12}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Architettura GSM}}{13}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Architettura GPRS}}{14}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Architettura UMTS}}{15}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Architettura LTE}}{16}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Architettura 5G\cite {5g-approach}}}{18}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.8}{\ignorespaces Esempi di applicazioni per il 5G}}{19}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.9}{\ignorespaces \textit {Network slicing} nel 5G}}{19}{}%
-\defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.1}{\ignorespaces \textit {Radio} e \textit {smart jamming}\cite {4g-dos-recap}}}{22}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.2}{\ignorespaces \textit {Distributed denial of service}}}{22}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Misurazione tempi di risposta HLR con \textit {location updates}\cite {measuring-dos}}}{23}{}%
-\defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Autenticazione nelle reti 2G}}{25}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Autenticazione nelle reti 3G e 4G}}{27}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Autenticazione nelle reti 5G}}{29}{}%
-\defcounter {refsection}{0}\relax 
-\addvspace {10\p@ }
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Strumento per rubare IMSI}}{31}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.2}{\ignorespaces IMSI \textit {catching} nelle reti UMTS\cite {dos-imsi}}}{32}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.3}{\ignorespaces Messaggi scambiati durante l'autenticazione in una rete GSM\cite {gsm-dos-simless}}}{33}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.4}{\ignorespaces Dispositivo per l'attacco DOS alle reti UMTS\cite {umts-dos}}}{34}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.5}{\ignorespaces Messaggi scambiati durante l'autenticazione in una rete UMTS\cite {umts-dos}}}{34}{}%
-\defcounter {refsection}{0}\relax 
-\addvspace {10\p@ }
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {7.1}{\ignorespaces Composizione del SUCI nel 5G}}{36}{}%
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }

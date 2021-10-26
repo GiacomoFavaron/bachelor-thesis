@@ -1,90 +1,38 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {english}{}\relax 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {1}Introduction}{7}{}%
+\contentsline {chapter}{\numberline {1}Introduction}{4}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.1}Related works and state of the art}{8}{}%
+\contentsline {section}{\numberline {1.1}Related works and state of the art}{5}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.1.1}Air Pollution}{8}{}%
+\contentsline {subsection}{\numberline {1.1.1}Air Pollution}{5}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.1.2}Low-cost sensors}{8}{}%
+\contentsline {subsection}{\numberline {1.1.2}Air quality monitoring}{5}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.2}Dissertation structure}{8}{}%
+\contentsline {subsection}{\numberline {1.1.3}Low-cost sensors}{5}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.3}Dissertation objective}{9}{}%
+\contentsline {subsection}{\numberline {1.1.4}Drone systems}{6}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2}ARIA: System architecture}{10}{}%
+\contentsline {subsection}{\numberline {1.1.5}Drone monitoring and sensing}{6}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Generazioni cellulari}{11}{}%
+\contentsline {section}{\numberline {1.2}Dissertation structure}{7}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}1G}{12}{}%
+\contentsline {section}{\numberline {1.3}Dissertation objective}{7}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}2G}{13}{}%
+\contentsline {chapter}{\numberline {2}ARIA project}{8}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{GSM}{13}{}%
+\contentsline {section}{\numberline {2.1}Overview}{8}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.1}GPRS}{14}{}%
+\contentsline {section}{\numberline {2.2}Proposal presentation}{8}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.2}EDGE}{14}{}%
+\contentsline {chapter}{\numberline {3}ARIA: System architecture}{9}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}3G}{15}{}%
+\contentsline {chapter}{\numberline {4}Sensor Payload}{10}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.1}UMTS}{15}{}%
+\contentsline {chapter}{\numberline {5}ARIA: Software implementation}{11}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.2}HSPA/HSPA+}{15}{}%
+\contentsline {chapter}{\numberline {6}ARIA: Test flight}{12}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}4G}{16}{}%
+\contentsline {chapter}{\numberline {7}Conclusions and future work}{13}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.1}LTE}{16}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.5}5G}{17}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.5.1}Network Slicing}{19}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.5.2}\textit {Software Defined Network} e \textit {Network Functions Virtualization}}{20}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Attacco Denial of Service}{21}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Vulnerabilità nelle reti cellulari}{21}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.1}Radio Jamming}{22}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.2}Vulnerabilità di sistema}{22}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.3}Botnet}{22}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.4}Autenticazione}{23}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}Misurazione}{23}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Sistema di autenticazione}{24}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.1}2G}{25}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}3G e 4G}{26}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.3}5G}{28}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Attacco all'autenticazione delle reti 2G-4G}{30}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.1}Botnet}{31}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.2}IMSI \textit {catching}}{31}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.3}Attacco alle reti con dispositivi SIM-less}{33}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3.1}GSM}{33}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3.2}UMTS}{34}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}Attacco all'autenticazione delle reti 5G}{35}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.1}IMSI \textit {catching}}{36}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.2}Replicazione dell'attacco SIM-less}{36}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.3}Nuove vulnerabilità}{36}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {8}Conclusioni}{37}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliografia}{38}{}%
+\contentsline {chapter}{Bibliography}{14}{}%
