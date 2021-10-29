@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.10.5)  26 OCT 2021 18:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.10.5)  29 OCT 2021 08:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -525,6 +525,13 @@ Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
 \rotheadsize=\dimen172
 \c@nlinenum=\count433
 \TeXr@lab=\toks36
+) (c:/texlive/2021/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count434
+\float@exts=\toks37
+\float@box=\box60
+\@float@everytoks=\toks38
+\@floatcapt=\box61
 ) (./formats/acronyms.tex)
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
@@ -532,8 +539,8 @@ Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'english'.
  (c:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count434
-\l__pdf_internal_box=\box60
+\l__color_backend_stack_int=\count435
+\l__pdf_internal_box=\box62
 )
 
 LaTeX Warning: Unused global option(s):
@@ -542,20 +549,20 @@ LaTeX Warning: Unused global option(s):
 (./index.aux)
 \openout1 = `index.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -593,17 +600,17 @@ LaTeX Font Info:    ... okay on input line 46.
 
 (c:/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count435
+\scratchcounter=\count436
 \scratchdimen=\dimen173
-\scratchbox=\box61
-\nofMPsegments=\count436
-\nofMParguments=\count437
-\everyMPshowfont=\toks37
-\MPscratchCnt=\count438
+\scratchbox=\box63
+\nofMPsegments=\count437
+\nofMParguments=\count438
+\everyMPshowfont=\toks39
+\MPscratchCnt=\count439
 \MPscratchDim=\dimen174
-\MPnumerator=\count439
-\makeMPintoPDFobject=\count440
-\everyMPtoPDFconversion=\toks38
+\MPnumerator=\count440
+\makeMPintoPDFobject=\count441
+\everyMPtoPDFconversion=\toks40
 ) (c:/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -636,8 +643,8 @@ Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'index.bbl' found.
  (./index.bbl)
-Package biblatex Info: Reference section=0 on input line 46.
-Package biblatex Info: Reference segment=0 on input line 46.
+Package biblatex Info: Reference section=0 on input line 47.
+Package biblatex Info: Reference segment=0 on input line 47.
  (./includes/titlepage.tex
 <images/unipd.png, id=1, 205.2468pt x 95.3964pt>
 File: images/unipd.png Graphic file (type png)
@@ -677,14 +684,14 @@ Chapter 1.
 
 
 ]
-Overfull \hbox (4.76933pt too wide) in paragraph at lines 17--36
+Overfull \hbox (2.33878pt too wide) in paragraph at lines 15--34
  [][] 
  []
 
 <images/ARPAV stazioni rete 2019.jpg, id=35, 770.88pt x 770.88pt>
 File: images/ARPAV stazioni rete 2019.jpg Graphic file (type jpg)
 <use images/ARPAV stazioni rete 2019.jpg>
-Package pdftex.def Info: images/ARPAV stazioni rete 2019.jpg  used on input line 42.
+Package pdftex.def Info: images/ARPAV stazioni rete 2019.jpg  used on input line 40.
 (pdftex.def)             Requested size: 338.58632pt x 338.5766pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -696,30 +703,38 @@ Chapter 2.
 
 ] (./includes/systemarchitecture.tex
 Chapter 3.
+<images/system-architecture.png, id=51, 1355.0625pt x 1084.05pt>
+File: images/system-architecture.png Graphic file (type png)
+<use images/system-architecture.png>
+Package pdftex.def Info: images/system-architecture.png  used on input line 15.
+(pdftex.def)             Requested size: 483.69687pt x 386.94945pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 ) [9
 
 
-] (./includes/sensors.tex
+] [10 <./images/system-architecture.png>] (./includes/sensors.tex
 Chapter 4.
-) [10
+) [11
 
 
 ] (./includes/software.tex
 Chapter 5.
-) [11
+) [12
 
 
 ] (./includes/testflight.tex
 Chapter 6.
-) [12
+) [13
 
 
 ] (./includes/conclusions.tex
 Chapter 7.
-) [13
+) [14
 
 
-] [14
+] [15
 
 
 ] (./index.aux)
@@ -728,18 +743,18 @@ Package logreq Info: Writing requests to 'index.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 17725 strings out of 478599
- 304391 string characters out of 5858101
- 1111981 words of memory out of 5000000
- 35350 multiletter control sequences out of 15000+600000
+ 17803 strings out of 478599
+ 305733 string characters out of 5858101
+ 1113494 words of memory out of 5000000
+ 35423 multiletter control sequences out of 15000+600000
  410037 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 91i,17n,94p,1556b,2827s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on index.pdf (17 pages, 412484 bytes).
+ 91i,17n,94p,1556b,2905s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on index.pdf (18 pages, 973422 bytes).
 PDF statistics:
- 115 PDF objects out of 1000 (max. 8388607)
- 71 compressed objects within 1 object stream
+ 125 PDF objects out of 1000 (max. 8388607)
+ 76 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

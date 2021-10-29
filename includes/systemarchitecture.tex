@@ -1,1 +1,39 @@
 \chapter{ARIA: System architecture}
+The selected system is a compromise between payload capacity, in-flight stability and
+manoeuvrability and low-cost. The system is composed by:
+\begin{itemize}
+    \item Tarot 650 Sport drone, for the platform
+    \item Pixhawk Cube Black controller board
+    \item HERE2 GPS system
+    \item Raspberry Pi3b+ for the controller devoted to sensor measurement
+    \item a suite of sensors for air quality monitoring (in particular NO, NO2, CO and VOCs) based on Alphasesnse AFE board
+    \item Nova SDS011 PM board to measure PM2.5 and PM10
+    \item Taranis 9D+ Radio and an 8XR receiver
+\end{itemize}
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=1\textwidth]{images/system-architecture.png}
+    \caption{\gls{aria} drone system architecture\cite{arpav}}
+    \label{fig:aria-drone}
+\end{figure}
+The ARIA Project is going to use
+simultaneously two drones and a fixed ground station, equipped with the same instrumentation in
+order two build a 3D map of the investigated area.
+There has been just some laboratory testing on the effect of the blade disturbances on the measurement \cite{8453584}
+but a comprehensive study on sensor location on such platforms has not been done yet; therefore
+the ARIA project has designed a vertical boom were all the gas sensors are located. On the other
+hand, in the area above the UAV, there is a relatively constant air flow which drops significantly after
+a distance of approximately 40.0-50.0 cm for devices with characteristics similar to those used in the
+proposed solution. The airflow behaviour is similar aside from the UAV in the area with a radius from
+the center r $>$ 50.0 cm. To avoid the swirl area, it is recommended to place horizontal and vertical
+probes of the appropriate length. The use of horizontal probes often makes it difficult to achieve the
+conditions necessary for isokinetic sampling. In addition, it is necessary to use additional structures for their equalization. To overcome this problem, it was decided to use the vertical probe; the use of a
+boom in a vertical position does not affect the flight capabilities of the UAV since the entire system has
+a low center of mass, situated in the proximity of the battery.
+Figure \ref{fig:aria-drone} shows an overview of the various system components; while Figure xxx shows various details of one of the drones.
+The UAV pilot or the UAV ground station operator (GSO) can communicate with the UAV
+wirelessly, using a radio controller (RC) transmitter or a computer, respectively.
+Power is provided by a 6s Lipo battery able to give 10000mAh. Communication
+between the flight controller and ground station is via 433MHz telemetry link connected to a laptop; a
+2.4GHz communication link is also ensured via the Taranis 9D+ Radio and an 8XR receiver onboard the
+UAV.

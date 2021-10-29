@@ -19,9 +19,160 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
+    \entry{8718193}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=37cff8c5a5c567553a115540ce2419a9}{%
+           family={Park},
+           familyi={P\bibinitperiod},
+           given={Junhyun},
+           giveni={J\bibinitperiod}}}%
+        {{hash=23658b048dad741c0979a33b265011eb}{%
+           family={Oh},
+           familyi={O\bibinitperiod},
+           given={Youngjune},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=01d4e043d8f284f9ffa30b27463c9674}{%
+           family={Byun},
+           familyi={B\bibinitperiod},
+           given={Hyung-ho},
+           giveni={H\bibinithyphendelim h\bibinitperiod}}}%
+        {{hash=a776e83a92afa0d585d51bdd5b76290e}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Chong-kwon},
+           giveni={C\bibinithyphendelim k\bibinitperiod}}}%
+      }
+      \strng{namehash}{39ce35af5d5f6fc38633b6883f0173db}
+      \strng{fullhash}{85b9303798269bebb24b4b4c4e45d534}
+      \strng{bibnamehash}{39ce35af5d5f6fc38633b6883f0173db}
+      \strng{authorbibnamehash}{39ce35af5d5f6fc38633b6883f0173db}
+      \strng{authornamehash}{39ce35af5d5f6fc38633b6883f0173db}
+      \strng{authorfullhash}{85b9303798269bebb24b4b4c4e45d534}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2019 International Conference on Information Networking (ICOIN)}
+      \field{title}{Low Cost Fine-Grained Air Quality Monitoring System Using LoRa WAN}
+      \field{year}{2019}
+      \field{pages}{439\bibrangedash 441}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1109/ICOIN.2019.8718193
+      \endverb
+    \endentry
+    \entry{8682518}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=cc2d258ea01188839f29657aa6b1f283}{%
+           family={Bai},
+           familyi={B\bibinitperiod},
+           given={Zixuan},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=48e692c0aa1f8d3d4423e04732d779d8}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Zhiwen},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=3c76726ca8d88c3a9e465e48ff5fbfd6}{%
+           family={Bian},
+           familyi={B\bibinitperiod},
+           given={Kaigui},
+           giveni={K\bibinitperiod}}}%
+        {{hash=c388e75135696dc8dfc06d66a767963e}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Lingyang},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{307d50fdcff9253780c2247c257f3cd8}
+      \strng{fullhash}{2feb6c6907986994958bdefd384b21ad}
+      \strng{bibnamehash}{307d50fdcff9253780c2247c257f3cd8}
+      \strng{authorbibnamehash}{307d50fdcff9253780c2247c257f3cd8}
+      \strng{authornamehash}{307d50fdcff9253780c2247c257f3cd8}
+      \strng{authorfullhash}{2feb6c6907986994958bdefd384b21ad}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}
+      \field{title}{Real-time Prediction for Fine-grained Air Quality Monitoring System with Asynchronous Sensing}
+      \field{year}{2019}
+      \field{pages}{7620\bibrangedash 7624}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/ICASSP.2019.8682518
+      \endverb
+    \endentry
+    \entry{8453584}{inproceedings}{}
+      \name{author}{9}{}{%
+        {{hash=f207fd69e0239cb3a729ae09db40b5b0}{%
+           family={Bolla},
+           familyi={B\bibinitperiod},
+           given={Gian\bibnamedelima Marco},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=81707b6193f57aa90a8e2b3959e240d8}{%
+           family={Casagrande},
+           familyi={C\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6ed9f03ee3c5bb7bb9bf0ed416183291}{%
+           family={Comazzetto},
+           familyi={C\bibinitperiod},
+           given={Antonio},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f84c7ac1f77a6affef1f955c328c09b2}{%
+           family={Dal\bibnamedelima Moro},
+           familyi={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Riccardo},
+           giveni={R\bibinitperiod}}}%
+        {{hash=5aa36e890120c492230c92b68c1b57bd}{%
+           family={Destro},
+           familyi={D\bibinitperiod},
+           given={Matteo},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f60d048030d7f639ab41c5e269121b3f}{%
+           family={Fantin},
+           familyi={F\bibinitperiod},
+           given={Edoardo},
+           giveni={E\bibinitperiod}}}%
+        {{hash=0ae315914162e29fab282003eb4da455}{%
+           family={Colombatti},
+           familyi={C\bibinitperiod},
+           given={Giacomo},
+           giveni={G\bibinitperiod}}}%
+        {{hash=53d1e19576b585db783f0a0517a9fa24}{%
+           family={Aboudan},
+           familyi={A\bibinitperiod},
+           given={Alessio},
+           giveni={A\bibinitperiod}}}%
+        {{hash=334fd186917a505ed89302eebf4f67f2}{%
+           family={Lorenzini},
+           familyi={L\bibinitperiod},
+           given={Enrico\bibnamedelima C.},
+           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{1971cf7eb6b669eef9e2a2c5945eff5b}
+      \strng{fullhash}{bc3c5e14d0ff8185202b8879774c5473}
+      \strng{bibnamehash}{1971cf7eb6b669eef9e2a2c5945eff5b}
+      \strng{authorbibnamehash}{1971cf7eb6b669eef9e2a2c5945eff5b}
+      \strng{authornamehash}{1971cf7eb6b669eef9e2a2c5945eff5b}
+      \strng{authorfullhash}{bc3c5e14d0ff8185202b8879774c5473}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2018 5th IEEE International Workshop on Metrology for AeroSpace (MetroAeroSpace)}
+      \field{title}{ARIA: Air Pollutants Monitoring Using UAVs}
+      \field{year}{2018}
+      \field{pages}{225\bibrangedash 229}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/MetroAeroSpace.2018.8453584
+      \endverb
+    \endentry
     \entry{epc}{online}{}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labeltitlesource}{title}
       \field{title}{Environmental Pollution Centers}
       \verb{urlraw}
@@ -70,8 +221,8 @@
       \strng{authorbibnamehash}{0389d9c0a8749861908d6403d91a92a6}
       \strng{authornamehash}{0389d9c0a8749861908d6403d91a92a6}
       \strng{authorfullhash}{3c4fcedd55f91817c9b1cbfeff0a5b51}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{2016 IEEE International Conference on Information and Automation for Sustainability (ICIAfS)}
@@ -84,8 +235,8 @@
       \endverb
     \endentry
     \entry{who-airquality}{online}{}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labeltitlesource}{title}
       \field{title}{World Health Organization Air Quality Guidelines}
       \verb{urlraw}
@@ -96,8 +247,8 @@
       \endverb
     \endentry
     \entry{arpav}{online}{}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labeltitlesource}{title}
       \field{title}{Agenzia Regionale per la Prevenzione e Protezione Ambientale del Veneto}
       \verb{urlraw}
@@ -156,8 +307,8 @@
       \strng{authorbibnamehash}{584a3a5fedb04a95a6fa6d0d5c3114a6}
       \strng{authornamehash}{584a3a5fedb04a95a6fa6d0d5c3114a6}
       \strng{authorfullhash}{246a0ee9b1cd8638665610bdce66c536}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{US Environmental Protection Agency}
@@ -203,8 +354,8 @@
       \strng{authorbibnamehash}{860eb49635b1c8a551381c8725eb663f}
       \strng{authornamehash}{860eb49635b1c8a551381c8725eb663f}
       \strng{authorfullhash}{2d34eaa98dd1130ea8f5d3428107b6ac}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The air quality in urban areas is a major concern in modern cities due to significant impacts of air pollution on public health, global environment, and worldwide economy. Recent studies reveal the importance of micro-level pollution information, including human personal exposure and acute exposure to air pollutants. A real-time system with high spatio-temporal resolution is essential because of the limited data availability and non-scalability of conventional air pollution monitoring systems. Currently, researchers focus on the concept of The Next Generation Air Pollution Monitoring System (TNGAPMS) and have achieved significant breakthroughs by utilizing the advance sensing technologies, MicroElectroMechanical Systems (MEMS) and Wireless Sensor Network (WSN). However, there exist potential problems of these newly proposed systems, namely the lack of 3D data acquisition ability and the flexibility of the sensor network. In this paper, we classify the existing works into three categories as Static Sensor Network (SSN), Community Sensor Network (CSN) and Vehicle Sensor Network (VSN) based on the carriers of the sensors. Comprehensive reviews and comparisons among these three types of sensor networks were also performed. Last but not least, we discuss the limitations of the existing works and conclude the objectives that we want to achieve in future systems.}

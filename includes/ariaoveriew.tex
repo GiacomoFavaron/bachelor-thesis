@@ -1,6 +1,35 @@
 \chapter{ARIA project}
 \section{Overview}
-ARIA project was created by a group of students from the Department of Industrial Engineering, University of Padova, under the suggestion and guidance of personnel staff of the Center for Space Studies and Activities (CISAS) of the same University. The core motivation that brought together these students was the desire of researching new fields of application for drone technology.ARIA project’s scenario is investigation about drones usage within air quality monitoring. Environmental pollution is becoming every day more threatening for our health and we wanted to develop a tool to monitor it in 3D. the project is funded by the Department of Industrial Engineering of our University.
+ARIA project was created by a group of students from the Department of Industrial Engineering, University of Padova, under the suggestion and guidance of personnel staff of the Center for Space Studies and Activities (CISAS) of the same University. The core motivation that brought together these students was the desire of researching new fields of application for drone technology. ARIA project’s scenario is investigation about drones usage within air quality monitoring. Environmental pollution is becoming every day more threatening for our health and we wanted to develop a tool to monitor it in 3D. the project is funded by the Department of Industrial Engineering of our University.
 \section{Proposal presentation}
+ARIA project’s ultimate goal is gathering data about the
+values of major pollutants in urban areas at various heights.
+Our tool will be a vertical drone swarm equipped with low-cost sensors and deployable by utilizing GPS coordinates. The
+information will be stored in a database, so that they can be
+post-processed and published whenever appropriate. The most
+interesting activity could be creating a contemporary vertical
+profile of pollutants concentrations for various time-periods.
+We’ve chosen to work with UAVs because after reading
+literature about environmental monitoring, we found omissions
+in Wireless Sensor Networks. The use of this new technology
+was already recommended thanks to its speed, mobility and
+capability to fly at different heights. The main constraint was
+the unavailability of low-cost and low bulk drones.
+To differentiate ourselves from previous studies (since our
+knowledge would not be able to compete with them anyway)
+we wanted to explore vertical swarms. The study of pollution
+at different heights is not a popular topic and we wanted to
+investigate it.
+The task for the multicopter will have a standard implementation: usually it will be a simple request to move towards some
+GPS coordinates, hover there while collecting samples and then
+return to the base whenever the time is up or the battery is too
+low. The flight will be planned before departure from a
+terminal. The vertical deployment doesn’t need to be extremely
+precise, since sensor’s accuracy is not sufficient for slight
+misplacements to matter. Since our approach will be careful
+and gradual, each entity belonging to the swarm will not
+communicate with the others. Considering this fact, we know
+the term ”swarm” is being used inappropriately. Wireless
+communication and real swarm implementation will follow as
+the project unfolds.
 
-As for system which use only \gls{uavs}, however, a single UAV, is very limited in its performance due to its coverage, energy autonomy and small selection of sensors.  Swarms, instead, can provide full coverage of an area, while coordinating the best routes to visit each sensing node. Equipping different drones with different sensors is far easier and more flexible than having one doing everything on its own. The differentiating factor of the \gls{aria} project solution is the use of vertical swarms to monitor pollution at different heights, which is not a popular topic.
