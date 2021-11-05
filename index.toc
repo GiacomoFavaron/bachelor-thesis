@@ -45,18 +45,20 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6.1}Sensor data reading and saving}{20}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.2}Telemetry data}{20}{}%
+\contentsline {section}{\numberline {6.2}Telemetry data}{21}{}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {6.2.1}MAVLink protocol}{21}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.2.2}Transmitting the data from the Hex Cube Black}{22}{}%
+\contentsline {subsection}{\numberline {6.2.2}Transmitting the data from the Hex Cube Black}{23}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.2.3}Receiving the data on the Raspberry Pi}{23}{}%
+\contentsline {subsection}{\numberline {6.2.3}Receiving the data on the Raspberry Pi}{24}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.3}Code overview}{24}{}%
+\contentsline {section}{\numberline {6.3}Code overview}{25}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}ARIA: Field Test}{25}{}%
+\contentsline {chapter}{\numberline {7}ARIA: Field Test}{26}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {8}Conclusions and future work}{28}{}%
+\contentsline {chapter}{\numberline {8}Conclusions and future work}{29}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliography}{29}{}%
+\contentsline {chapter}{\numberline {A}Alphasense gas sensors formulas}{30}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliography}{31}{}%

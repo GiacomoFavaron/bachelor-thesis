@@ -13,9 +13,10 @@ The task can be divided into 2 main parts:
     \item Connecting the Raspberry Pi to the pixhawk autopilot and receive the telemetry data through the MAVLink protocol.
 \end{enumerate}
 \section{Sensor data reading and saving}
+\label{section:software}
 Figure \ref{fig:sensor-diagram} also shows the connections between the various components of the system. The gas sensors are connected to the Raspberry Pi via the ADS115 \gls{adc} which is in turn connected to the i2c bus on the Raspberry. The SDS011 particulate sensor is instead connected via USB.
 The code to read from these sensorse was written in Python3 (from now on referred to as Python for simplicity) and uses the official Adafruit Python ADS1x15 library and a custom Python based client for the SDS011 sensor.
-The script (\texttt{aria.py}), after checking the connection with the components, continuously reads the data from the sensors. In the case of the gas sensors data received from the ADS1115, the raw data is also directly processed using specific formulas which were sent to us by Alphasense (Alphasense AAN 803-05). These formulas take in input the raw electrode readings (in mV, two per gas sensor) and output the measured gas concentration (in ppb), and include a series of parameters which depend on the specific serial number of the sensor and on the external temperature. Currently the Raspberry Pi based UAV only reads data from the NO2 and CO sensors since the ADS1115 only supports 4 channels and 2 channels are required for each sensor (for the two electrodes, "AE" and "WE" in the formulas). A larger module is going to be installed in the near future.
+The script (\texttt{aria.py}), after checking the connection with the components, continuously reads the data from the sensors. In the case of the gas sensors data received from the ADS1115, the raw data is also directly processed using specific formulas which were sent to us by Alphasense (Alphasense AAN 803-05, see Appendix \ref{chapter:formulas} for specifications). These formulas take in input the raw electrode readings (in mV, two per gas sensor) and output the measured gas concentration (in ppb), and include a series of parameters which depend on the specific serial number of the sensor and on the external temperature. Currently the Raspberry Pi based UAV only reads data from the NO2 and CO sensors since the ADS1115 only supports 4 channels and 2 channels are required for each sensor (for the two electrodes, "AE" and "WE" in the formulas). A larger module is going to be installed in the near future.
 % The formulas we use for the processing of the NO2 and CO are:
 % \begin{equation}
 %     NO2 = ((WE_{NO2}-WE_{eNO2})-n_NO2*(AE_{NO2}-AE_{eNO2}))/sensNO_2
@@ -23,12 +24,24 @@ The script (\texttt{aria.py}), after checking the connection with the components
 % \begin{equation}
 %     CO = ((WE_{CO}-WE_{eCO})-n_CO*(AE_{CO}-AE_{eCO}))/sensCO
 % \end{equation}
-The data is then plotted in real time using the Python pyplot library and saved to a two different csv files, one with the raw sensor data, and the other for the processed sensor data. Every row contains also the date and time, the elapsed time since the acquisition script was started and the UNIX system time which is useful to check the synchronization with the data coming from the autopilot \ref{section:telem-data}. Figure \ref{fig:cmd-and-plot} shows examples of the live plot and the csv files.
+The data is then plotted in real time using the Python pyplot library and saved to a two different csv files, one with the raw sensor data, and the other for the processed sensor data. Every row contains also the date and time, the elapsed time since the acquisition script was started and the UNIX system time which is useful to check the synchronization with the data coming from the autopilot \ref{section:telem-data}. Figure \ref{fig:examples-script} shows examples of the terminal output, the live plot and the output csv files.
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.8\textwidth]{images/cmd-and-plot.png}
-    \caption{Screenshot of the terminal output and live plot while the script is running.}
-    \label{fig:cmd-and-plot}
+    \begin{subfigure}[b]{0.9\textwidth}
+        \centering
+        \includegraphics[width=0.8\textwidth]{images/cmd-and-plot.png}
+        \caption{Screenshot of the terminal output and live plot while the script is running.}
+        \label{fig:cmd-and-plot}
+    \end{subfigure}
+
+    \begin{subfigure}[b]{0.9\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{images/csv.PNG}
+        \caption{Example of the output csv files, in particular the one with the telemetry data on the left, and the one with the sensors data on the right}
+        \label{fig:csv}
+    \end{subfigure}
+       \caption{Examples of terminal output, live plot and output csv files from the main script aria.py}
+       \label{fig:examples-script}
 \end{figure}
 \section{Telemetry data}
 \label{section:telem-data}

@@ -31,22 +31,26 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {6.1}{\ignorespaces \gls {aria} sensors architecture\relax }}{19}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.2}{\ignorespaces Screenshot of the terminal output and live plot while the script is running.\relax }}{20}{}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Examples of terminal output, live plot and output csv files from the main script aria.py\relax }}{21}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.3}{\ignorespaces MAVLink packet structure\cite {ardupilot}\relax }}{21}{}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces MAVLink packet structure\cite {ardupilot}\relax }}{22}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.4}{\ignorespaces MAVLink SYSTEM\_TIME and GLOBAL\_POSITION\_INT MAVLink messages\cite {mavlink-messages}\relax }}{22}{}%
+\contentsline {figure}{\numberline {6.4}{\ignorespaces MAVLink SYSTEM\_TIME and GLOBAL\_POSITION\_INT MAVLink messages\cite {mavlink-messages}\relax }}{23}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.5}{\ignorespaces Configuration panel in Mission Planner, highlighted is the SERIAL2\_PROTOCOL parameter\cite {ardupilot}\relax }}{22}{}%
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Configuration panel in Mission Planner, highlighted is the SERIAL2\_PROTOCOL parameter\cite {ardupilot}\relax }}{23}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.6}{\ignorespaces SR2\_EXTRA3 and SR2\_POSITION data streams from ardupilot\cite {ardupilot-params}\relax }}{23}{}%
+\contentsline {figure}{\numberline {6.6}{\ignorespaces SR2\_EXTRA3 and SR2\_POSITION data streams from ardupilot\cite {ardupilot-params}\relax }}{24}{}%
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {7.1}{\ignorespaces 3D map and 3D altitude plot\relax }}{26}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {7.2}{\ignorespaces PM and gas sensors data from the Raspberry Pi drone (top two) and the Arduino drone (bottom two)\relax }}{27}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {7.3}{\ignorespaces 3D plots of the gas sensors data, Raspberry Pi drone data is in blue (top two), Arduino drone data is in red (bottom three)\relax }}{28}{}%
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {7.1}{\ignorespaces 3D map and 3D altitude plot\relax }}{25}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {7.2}{\ignorespaces PM and gas sensors data from the Raspberry Pi drone (top two) and the Arduino drone (bottom two)\relax }}{26}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {7.3}{\ignorespaces 3D plots of the gas sensors data, Raspberry Pi drone data is in blue (top two), Arduino drone data is in red (bottom three)\relax }}{27}{}%
-\defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {A.1}{\ignorespaces The Alphasense gas sensors formula used in our tests, which is algorithm 1 from the AAN 803-05 from Alphasense.\relax }}{30}{}%
