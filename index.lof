@@ -3,18 +3,50 @@
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {1.1}{\ignorespaces ARPAV monitoring netowrk in the Veneto region, Italy\cite {arpav}}}{6}{}%
+\contentsline {figure}{\numberline {1.1}{\ignorespaces ARPAV monitoring netowrk in the Veneto region, Italy\cite {arpav}\relax }}{7}{}%
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.1}{\ignorespaces \gls {aria} drone system architecture\cite {arpav}}}{10}{}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces \gls {aria} drone system components\relax }}{12}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.2}{\ignorespaces The Rasperry Pi \gls {aria} drone\relax }}{13}{}%
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces The 3D printed boards\relax }}{14}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.2}{\ignorespaces The SDS011 particulate sensor and it's USB connected to the Raspberry Pi (partially covered by the pole structure)\relax }}{15}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.3}{\ignorespaces The Alphasense gas sensors on the AFE board on top of the pole and the ADS1115 ADC on the side. The NO sensor is present but not connected.\relax }}{16}{}%
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.1}{\ignorespaces The Cubepilot Ecosystem\cite {ardupilot}\relax }}{17}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Screenshot of Mission Planner main screen, the gps is fixed in the laboratory location and the telemetry data is shown.\relax }}{18}{}%
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {6.1}{\ignorespaces \gls {aria} sensors architecture\relax }}{19}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Screenshot of the terminal output and live plot while the script is running.\relax }}{20}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {6.3}{\ignorespaces MAVLink packet structure\cite {ardupilot}\relax }}{21}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {6.4}{\ignorespaces MAVLink SYSTEM\_TIME and GLOBAL\_POSITION\_INT MAVLink messages\cite {mavlink-messages}\relax }}{22}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Configuration panel in Mission Planner, highlighted is the SERIAL2\_PROTOCOL parameter\cite {ardupilot}\relax }}{22}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {6.6}{\ignorespaces SR2\_EXTRA3 and SR2\_POSITION data streams from ardupilot\cite {ardupilot-params}\relax }}{23}{}%
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {7.1}{\ignorespaces 3D map and 3D altitude plot\relax }}{25}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {7.2}{\ignorespaces PM and gas sensors data from the Raspberry Pi drone (top two) and the Arduino drone (bottom two)\relax }}{26}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {7.3}{\ignorespaces 3D plots of the gas sensors data, Raspberry Pi drone data is in blue (top two), Arduino drone data is in red (bottom three)\relax }}{27}{}%
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }

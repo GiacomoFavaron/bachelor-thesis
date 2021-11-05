@@ -23,10 +23,12 @@ investigate it.
 The task for the multicopter will have a standard implementation: usually it will be a simple request to move towards some
 GPS coordinates, hover there while collecting samples and then
 return to the base whenever the time is up or the battery is too
-low. The flight will be planned before departure from a
+low, or move through different GPS waypoints, hovering at each one to allow the sensors to adjust and collect the data. 
+The gas sensors have a response time of around 30s which needs to be taken into consideration.
+The flight will be planned before departure from a
 terminal. The vertical deployment doesn’t need to be extremely
 precise, since sensor’s accuracy is not sufficient for slight
-misplacements to matter. Since our approach will be careful
+misplacements to matter, and  . Since our approach will be careful
 and gradual, each entity belonging to the swarm will not
 communicate with the others. Considering this fact, we know
 the term ”swarm” is being used inappropriately. Wireless

@@ -5,6 +5,8 @@
 %
 \usepackage[a4paper,top=2cm,bottom=2cm,left=2cm,right=2cm]{geometry}
 \usepackage{graphicx}
+\usepackage{caption}
+\usepackage{subcaption}
 \usepackage[sorting=none]{biblatex}
 \usepackage[acronym]{glossaries}
 \usepackage[english]{babel}
@@ -12,6 +14,7 @@
 \usepackage{setspace}
 \usepackage{makecell}
 \usepackage{float}
+\usepackage{minted}
 
 %
 %   Line spacing
@@ -64,7 +67,9 @@
     \clearpage
     \input{includes/sensors.tex}
     \clearpage
-    \input{includes/software.tex}
+    \input{includes/flight-control.tex}
+    \clearpage
+    \input{includes/data-acquisition.tex}
     \clearpage
     \input{includes/testflight.tex}
     \clearpage

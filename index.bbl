@@ -19,6 +19,99 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
+    \entry{wu2014mapping}{article}{}
+      \name{author}{8}{}{%
+        {{hash=e1488acd19a4d2a9209856bd9f17289d}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Chih-Da},
+           giveni={C\bibinithyphendelim D\bibinitperiod}}}%
+        {{hash=45e5c1a8209d41d6361a276ea3a9c84f}{%
+           family={MacNaughton},
+           familyi={M\bibinitperiod},
+           given={Piers},
+           giveni={P\bibinitperiod}}}%
+        {{hash=bf681dc48416b7dde4dd042959a62f20}{%
+           family={Melly},
+           familyi={M\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod}}}%
+        {{hash=62658bf0cbf910ee7a36efc16b2f452c}{%
+           family={Lane},
+           familyi={L\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=9ac0732e7e6ab45e9fab32f4f4e6191f}{%
+           family={Adamkiewicz},
+           familyi={A\bibinitperiod},
+           given={Gary},
+           giveni={G\bibinitperiod}}}%
+        {{hash=deca49f0ee54ee446788e0842d03e564}{%
+           family={Durant},
+           familyi={D\bibinitperiod},
+           given={John\bibnamedelima L},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=0c3553814e6623da0c1b846414028780}{%
+           family={Brugge},
+           familyi={B\bibinitperiod},
+           given={Doug},
+           giveni={D\bibinitperiod}}}%
+        {{hash=505dfadd6f2a0754910595aa98408d25}{%
+           family={Spengler},
+           familyi={S\bibinitperiod},
+           given={John\bibnamedelima D},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{b94b18ec371242b12f26a42cdc5a7bd9}
+      \strng{fullhash}{c52cd52e9be6ca82fab36f8f8537615b}
+      \strng{bibnamehash}{b94b18ec371242b12f26a42cdc5a7bd9}
+      \strng{authorbibnamehash}{b94b18ec371242b12f26a42cdc5a7bd9}
+      \strng{authornamehash}{b94b18ec371242b12f26a42cdc5a7bd9}
+      \strng{authorfullhash}{c52cd52e9be6ca82fab36f8f8537615b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of exposure science \& environmental epidemiology}
+      \field{number}{3}
+      \field{title}{Mapping the vertical distribution of population and particulate air pollution in a near-highway urban neighborhood: Implications for exposure assessment}
+      \field{volume}{24}
+      \field{year}{2014}
+      \field{pages}{297\bibrangedash 304}
+      \range{pages}{8}
+    \endentry
+    \entry{neuberger1954vertical}{article}{}
+      \name{author}{1}{}{%
+        {{hash=bee647c2cd3ff6500d9adf6a3fff37e2}{%
+           family={Neuberger},
+           familyi={N\bibinitperiod},
+           given={Hans},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{bee647c2cd3ff6500d9adf6a3fff37e2}
+      \strng{fullhash}{bee647c2cd3ff6500d9adf6a3fff37e2}
+      \strng{bibnamehash}{bee647c2cd3ff6500d9adf6a3fff37e2}
+      \strng{authorbibnamehash}{bee647c2cd3ff6500d9adf6a3fff37e2}
+      \strng{authornamehash}{bee647c2cd3ff6500d9adf6a3fff37e2}
+      \strng{authorfullhash}{bee647c2cd3ff6500d9adf6a3fff37e2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Air Repair}
+      \field{number}{3}
+      \field{title}{The vertical distribution of atmospheric properties and air pollution}
+      \field{volume}{3}
+      \field{year}{1954}
+      \field{pages}{205\bibrangedash 210}
+      \range{pages}{6}
+    \endentry
     \entry{8718193}{inproceedings}{}
       \name{author}{4}{}{%
         {{hash=37cff8c5a5c567553a115540ce2419a9}{%
@@ -48,8 +141,8 @@
       \strng{authorbibnamehash}{39ce35af5d5f6fc38633b6883f0173db}
       \strng{authornamehash}{39ce35af5d5f6fc38633b6883f0173db}
       \strng{authorfullhash}{85b9303798269bebb24b4b4c4e45d534}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{2019 International Conference on Information Networking (ICOIN)}
@@ -90,8 +183,8 @@
       \strng{authorbibnamehash}{307d50fdcff9253780c2247c257f3cd8}
       \strng{authornamehash}{307d50fdcff9253780c2247c257f3cd8}
       \strng{authorfullhash}{2feb6c6907986994958bdefd384b21ad}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}
@@ -157,8 +250,8 @@
       \strng{authorbibnamehash}{1971cf7eb6b669eef9e2a2c5945eff5b}
       \strng{authornamehash}{1971cf7eb6b669eef9e2a2c5945eff5b}
       \strng{authorfullhash}{bc3c5e14d0ff8185202b8879774c5473}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{2018 5th IEEE International Workshop on Metrology for AeroSpace (MetroAeroSpace)}
@@ -171,8 +264,8 @@
       \endverb
     \endentry
     \entry{epc}{online}{}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labeltitlesource}{title}
       \field{title}{Environmental Pollution Centers}
       \verb{urlraw}
@@ -221,8 +314,8 @@
       \strng{authorbibnamehash}{0389d9c0a8749861908d6403d91a92a6}
       \strng{authornamehash}{0389d9c0a8749861908d6403d91a92a6}
       \strng{authorfullhash}{3c4fcedd55f91817c9b1cbfeff0a5b51}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{2016 IEEE International Conference on Information and Automation for Sustainability (ICIAfS)}
@@ -307,8 +400,8 @@
       \strng{authorbibnamehash}{584a3a5fedb04a95a6fa6d0d5c3114a6}
       \strng{authornamehash}{584a3a5fedb04a95a6fa6d0d5c3114a6}
       \strng{authorfullhash}{246a0ee9b1cd8638665610bdce66c536}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{US Environmental Protection Agency}
@@ -354,8 +447,8 @@
       \strng{authorbibnamehash}{860eb49635b1c8a551381c8725eb663f}
       \strng{authornamehash}{860eb49635b1c8a551381c8725eb663f}
       \strng{authorfullhash}{2d34eaa98dd1130ea8f5d3428107b6ac}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The air quality in urban areas is a major concern in modern cities due to significant impacts of air pollution on public health, global environment, and worldwide economy. Recent studies reveal the importance of micro-level pollution information, including human personal exposure and acute exposure to air pollutants. A real-time system with high spatio-temporal resolution is essential because of the limited data availability and non-scalability of conventional air pollution monitoring systems. Currently, researchers focus on the concept of The Next Generation Air Pollution Monitoring System (TNGAPMS) and have achieved significant breakthroughs by utilizing the advance sensing technologies, MicroElectroMechanical Systems (MEMS) and Wireless Sensor Network (WSN). However, there exist potential problems of these newly proposed systems, namely the lack of 3D data acquisition ability and the flexibility of the sensor network. In this paper, we classify the existing works into three categories as Static Sensor Network (SSN), Community Sensor Network (CSN) and Vehicle Sensor Network (VSN) based on the carriers of the sensors. Comprehensive reviews and comparisons among these three types of sensor networks were also performed. Last but not least, we discuss the limitations of the existing works and conclude the objectives that we want to achieve in future systems.}
@@ -396,8 +489,8 @@
       \strng{authorbibnamehash}{d923285e6da8fa667d4f078187ab8905}
       \strng{authornamehash}{d923285e6da8fa667d4f078187ab8905}
       \strng{authorfullhash}{d923285e6da8fa667d4f078187ab8905}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{SENSORNETS}
@@ -445,8 +538,8 @@
       \strng{authorbibnamehash}{f6e1eeb92780aec86d872d8cc8c30d6f}
       \strng{authornamehash}{f6e1eeb92780aec86d872d8cc8c30d6f}
       \strng{authorfullhash}{59fe0bf79463f5701771aa569d438996}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{IEEE Network}
@@ -479,8 +572,8 @@
       \strng{authorbibnamehash}{58e4846a28e4f393c760cd44e764350e}
       \strng{authornamehash}{58e4846a28e4f393c760cd44e764350e}
       \strng{authorfullhash}{58e4846a28e4f393c760cd44e764350e}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{2019 IEEE International Conference on Consumer Electronics (ICCE)}
@@ -490,6 +583,114 @@
       \range{pages}{6}
       \verb{doi}
       \verb 10.1109/ICCE.2019.8662050
+      \endverb
+    \endentry
+    \entry{co-a4}{online}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{title}{Alphasense CO-A4 Carbon Monoxide Sensor data sheet}
+      \verb{urlraw}
+      \verb https://www.alphasense.com/wp-content/uploads/2019/09/CO-A4.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.alphasense.com/wp-content/uploads/2019/09/CO-A4.pdf
+      \endverb
+    \endentry
+    \entry{no-a4}{online}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{title}{Alphasense NO-A4 Nitric Oxide Sensor data sheet}
+      \verb{urlraw}
+      \verb https://www.alphasense.com/wp-content/uploads/2019/09/NO-A4.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.alphasense.com/wp-content/uploads/2019/09/NO-A4.pdf
+      \endverb
+    \endentry
+    \entry{no2-a43f}{online}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{title}{Alphasense NO2-A43F Nitrogen Dioxide Sensor data sheet}
+      \verb{urlraw}
+      \verb https://www.alphasense.com/wp-content/uploads/2019/09/NO2-A43F.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.alphasense.com/wp-content/uploads/2019/09/NO2-A43F.pdf
+      \endverb
+    \endentry
+    \entry{pid-ah2}{online}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{title}{Alphasense PID-AH2 Photo Ionisation Detector data sheet}
+      \verb{urlraw}
+      \verb https://www.alphasense.com/wp-content/uploads/2019/08/PID-AH2.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.alphasense.com/wp-content/uploads/2019/08/PID-AH2.pdf
+      \endverb
+    \endentry
+    \entry{ardupilot}{online}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{title}{ArduPilot}
+      \verb{urlraw}
+      \verb https://ardupilot.org
+      \endverb
+      \verb{url}
+      \verb https://ardupilot.org
+      \endverb
+    \endentry
+    \entry{mavlink}{online}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{title}{MAVLink}
+      \verb{urlraw}
+      \verb https://mavlink.io/en/
+      \endverb
+      \verb{url}
+      \verb https://mavlink.io/en/
+      \endverb
+    \endentry
+    \entry{mavlink-messages}{online}{}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{title}
+      \field{title}{Messages (common) - MAVLink developer guide}
+      \verb{urlraw}
+      \verb https://mavlink.io/en/messages/common.html
+      \endverb
+      \verb{url}
+      \verb https://mavlink.io/en/messages/common.html
+      \endverb
+    \endentry
+    \entry{ardupilot-params}{online}{}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{title}
+      \field{title}{Complete Parameters List - Copter Documentation}
+      \verb{urlraw}
+      \verb https://ardupilot.org/copter/docs/parameters.html#
+      \endverb
+      \verb{url}
+      \verb https://ardupilot.org/copter/docs/parameters.html#
+      \endverb
+    \endentry
+    \entry{repo}{online}{}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{title}
+      \field{title}{ARIA-project-unipd}
+      \verb{urlraw}
+      \verb https://github.com/GiacomoFavaron/ARIA-project-unipd
+      \endverb
+      \verb{url}
+      \verb https://github.com/GiacomoFavaron/ARIA-project-unipd
       \endverb
     \endentry
   \enddatalist

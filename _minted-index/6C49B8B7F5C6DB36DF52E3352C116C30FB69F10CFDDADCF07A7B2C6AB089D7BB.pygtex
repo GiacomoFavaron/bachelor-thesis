@@ -1,0 +1,22 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{+w}{    }\PYG{k}{while}\PYG{p}{(}\PYG{l+m+mi}{1}\PYG{p}{)}\PYG{+w}{ }\PYG{p}{\PYGZob{}}
+\PYG{+w}{        }\PYG{k}{if}\PYG{p}{(}\PYG{n}{flag}\PYG{p}{)}
+\PYG{+w}{            }\PYG{k}{break}\PYG{p}{;}
+\PYG{+w}{        }\PYG{k+kt}{int}\PYG{+w}{ }\PYG{n}{n}\PYG{+w}{ }\PYG{o}{=}\PYG{+w}{ }\PYG{n}{read}\PYG{+w}{ }\PYG{p}{(}\PYG{n}{fd}\PYG{p}{,}\PYG{+w}{ }\PYG{o}{\PYGZam{}}\PYG{n}{byte}\PYG{p}{,}\PYG{+w}{ }\PYG{l+m+mi}{1}\PYG{p}{);}
+\PYG{+w}{        }\PYG{k}{if}\PYG{p}{(}\PYG{n}{n}\PYG{+w}{ }\PYG{o}{==}\PYG{+w}{ }\PYG{l+m+mi}{\PYGZhy{}1}\PYG{p}{)}\PYG{+w}{ }\PYG{p}{\PYGZob{}}
+\PYG{+w}{            }\PYG{n}{fprintf}\PYG{+w}{ }\PYG{p}{(}\PYG{n}{stderr}\PYG{p}{,}\PYG{+w}{ }\PYG{l+s}{\PYGZdq{}error \PYGZpc{}d on read: \PYGZpc{}s\PYGZdq{}}\PYG{p}{,}\PYG{+w}{ }\PYG{n}{errno}\PYG{p}{,}\PYG{+w}{ }\PYG{n}{portname}\PYG{p}{,}\PYG{+w}{ }\PYG{n}{strerror}\PYG{+w}{ }\PYG{p}{(}\PYG{n}{errno}\PYG{p}{));}
+\PYG{+w}{            }\PYG{k}{return}\PYG{+w}{ }\PYG{l+m+mi}{1}\PYG{p}{;}
+\PYG{+w}{        }\PYG{p}{\PYGZcb{}}
+\PYG{+w}{        }\PYG{k}{if}\PYG{+w}{ }\PYG{p}{(}\PYG{n}{mavlink\PYGZus{}parse\PYGZus{}char}\PYG{p}{(}\PYG{n}{chan}\PYG{p}{,}\PYG{+w}{ }\PYG{n}{byte}\PYG{p}{,}\PYG{+w}{ }\PYG{o}{\PYGZam{}}\PYG{n}{msg}\PYG{p}{,}\PYG{+w}{ }\PYG{o}{\PYGZam{}}\PYG{n}{status}\PYG{p}{))}\PYG{+w}{ }\PYG{p}{\PYGZob{}}
+\PYG{+w}{            }\PYG{n}{printf}\PYG{p}{(}\PYG{l+s}{\PYGZdq{}Received message with ID \PYGZpc{}d, sequence: \PYGZpc{}d from component \PYGZpc{}d of system \PYGZpc{}d}\PYG{l+s+se}{\PYGZbs{}n}\PYG{l+s}{\PYGZdq{}}\PYG{p}{,}\PYG{+w}{ }\PYG{n}{msg}\PYG{p}{.}\PYG{n}{msgid}\PYG{p}{,}\PYG{+w}{ }\PYG{n}{msg}\PYG{p}{.}\PYG{n}{seq}\PYG{p}{,}\PYG{+w}{ }\PYG{n}{msg}\PYG{p}{.}\PYG{n}{compid}\PYG{p}{,}\PYG{+w}{ }\PYG{n}{msg}\PYG{p}{.}\PYG{n}{sysid}\PYG{p}{);}
+\PYG{+w}{            }\PYG{k}{switch}\PYG{p}{(}\PYG{n}{msg}\PYG{p}{.}\PYG{n}{msgid}\PYG{p}{)}\PYG{+w}{ }\PYG{p}{\PYGZob{}}
+\PYG{+w}{                }\PYG{k}{case}\PYG{+w}{ }\PYG{n+nl}{MAVLINK\PYGZus{}MSG\PYGZus{}ID\PYGZus{}SYSTEM\PYGZus{}TIME}\PYG{p}{:}\PYG{+w}{ }\PYG{p}{\PYGZob{}}
+\PYG{+w}{                    }\PYG{n}{mavlink\PYGZus{}msg\PYGZus{}system\PYGZus{}time\PYGZus{}decode}\PYG{p}{(}\PYG{o}{\PYGZam{}}\PYG{n}{msg}\PYG{p}{,}\PYG{+w}{ }\PYG{o}{\PYGZam{}}\PYG{n}{time\PYGZus{}message}\PYG{p}{);}
+\PYG{+w}{                    }\PYG{n}{mavlink\PYGZus{}unix\PYGZus{}time}\PYG{+w}{ }\PYG{o}{=}\PYG{+w}{ }\PYG{n}{time\PYGZus{}message}\PYG{p}{.}\PYG{n}{time\PYGZus{}unix\PYGZus{}usec}\PYG{p}{;}
+\PYG{+w}{                    }\PYG{n}{time\PYGZus{}since\PYGZus{}boot}\PYG{+w}{ }\PYG{o}{=}\PYG{+w}{ }\PYG{n}{time\PYGZus{}message}\PYG{p}{.}\PYG{n}{time\PYGZus{}boot\PYGZus{}ms}\PYG{p}{;}
+\PYG{+w}{                    }\PYG{n}{flag}\PYG{+w}{ }\PYG{o}{=}\PYG{+w}{ }\PYG{n+nb}{true}\PYG{p}{;}
+\PYG{+w}{                }\PYG{p}{\PYGZcb{}}
+\PYG{+w}{            }\PYG{p}{\PYGZcb{}}
+\PYG{+w}{        }\PYG{p}{\PYGZcb{}}
+\PYG{+w}{    }\PYG{p}{\PYGZcb{}}
+\end{Verbatim}
