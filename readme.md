@@ -1,2 +1,2 @@
 # Bachelor thesis in Computer engineering
-## Denial of Service attack to cellular networks
+## ACQUISITION AND PROCESSING SOFTWARE FOR AIR POLLUTION MEASUREMENT ON BOARD DRONES OF A.R.I.A. PROJECT
